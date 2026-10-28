@@ -75,7 +75,7 @@ Notes: the two DEUS decks price Discover differently (per-module table vs fixed 
 
 Sources: Recap, Phases 2, 3, 5, 7, 9, 11; founder, 2026-10-28; founder answers (counts are the founder's rough estimates).
 
-**Why deals don't close (founder's account, not the buyers'):** "we'll discuss internally" then silence; "we don't need it now"; the game's experience is not good enough (long, small text); personal preference; and, most often, the company is curious about Discover but already has its own assessment.
+**Why deals don't close (founder's account, not the buyers'):** "we'll discuss internally" then silence; "we don't need it now"; the game's experience is not good enough (long, small text); personal preference; and, most often, the company is curious about Discover but already has its own assessment. **Added later on 2026-10-28 (founder, in chat):** the HR head and the decision-maker are usually in the meeting and the proposal is walked through with them; prospects take the trial and read the proposal, then the deal very rarely goes through. Their stated reasons: "we'll think about it", "no budget", "we'll discuss later", and from some, that the gamified assessment is long and boring, not optimised for mobile, and a poor user experience. Which game or modules these comments were about is not known.
 
 ## Team
 | Item | Value | Source |
