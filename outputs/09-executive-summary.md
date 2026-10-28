@@ -50,7 +50,7 @@ Sources: `inputs/DEUS_Company_History_Recap.pdf` ("Recap, Phase N"), `inputs/deu
 | | Test A: Discover as a managed MT-screening service | Test B: Enhance as a fixed-scope system |
 |---|---|---|
 | Buyer | Groups with their own yearly MT or campus intake of several hundred candidates | Multi-brand groups with a KPI and appraisal setup as complex as DKB's (ASSUMPTION); no direct competitor of DKB |
-| Pass line | At least 5 programme-owner meetings **and** a paid pilot (minimum Rp10 juta) or a signed order for a dated intake with a named budget owner | At least 2 groups pay for a pilot or sign an intent backed by a deposit, at or above a price floor written before the first meeting |
+| Pass line | At least 5 programme-owner meetings **and** a paid pilot (minimum Rp10 juta; Pitch deck, A9) or a signed order for a dated intake with a named budget owner | At least 2 groups pay for a pilot or sign an intent backed by a deposit, at or above a price floor written before the first meeting |
 | Needed to count | DEUS's Agate terms in writing | DKB's contract read and allowing DEUS to sell Enhance |
 
 Said plainly: test B runs through the dad's network, which brought "no Enhance sales" in Phase 11 (Recap, Phase 11), so it must clear the same money bar. Meetings alone, or "asks for a proposal", do not pass.
