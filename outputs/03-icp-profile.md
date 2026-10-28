@@ -11,7 +11,7 @@ DEUS has one buyer type with real evidence behind it, and it is not the one DEUS
 - **Backed (ids)** = the line rests on a cited fact. **Assumption** = a reasonable reading that no file confirms. Missing numbers are **NO DATA**.
 - **Facts** are cited; **Interpretation** is marked; recommendations are in the anti-profile and the closing sections.
 - Ids: **W** = buyer who paid, **C** = churned or did not repeat, **L** = channel or lead group that did not convert. They point to the ledger in section 1.
-- Company names are kept because this is an internal report and the brief names the clients. No person at a client is named, and no customer verbatims exist in the files (section 6).
+- Company names are kept because this is an internal report and the brief names the clients. No person at a client is named. The only buyer-side words in the files are four short quotes on the GBA deck's Telkom slide (section 7).
 
 Reminder: remove personal data you do not need before pasting.
 
@@ -170,7 +170,7 @@ Potentia's buyers are schools (W05; and deuspotentia.com targets "parents and sc
 
 ## 7. Words customers use
 
-**None recorded.** The files hold no buyer quotes: no Telkom, DKB, BCG or Boga words, no lost-deal reasons (Fact sheet, Founder notes). Every description of a buyer in the recap is the founder's own (e.g. "Telkom was specifically looking for gamification vendors", Recap, Phase 7). This is the largest weakness of the profile: DEUS does not yet know, in buyers' words, why they bought or didn't.
+**Almost none.** The only buyer-side words are four short quotes on the GBA deck's Telkom slide: three from participants (candidates) and one from Telkom Group Selection praising DEUS's professionalism from preparation to the end of the process (GBA deck, Success Story). DEUS chose them for its marketing, and none says why Telkom bought. (This report first said there were none; Step 5 found them and Step 7 corrected it here.) There are no DKB, BCG or Boga words and no lost-deal reasons (Fact sheet, Founder notes). Every other description of a buyer in the recap is the founder's own (e.g. "Telkom was specifically looking for gamification vendors", Recap, Phase 7). This is the largest weakness of the profile: DEUS does not yet know, in buyers' words, why they bought or didn't.
 
 ---
 
@@ -222,7 +222,7 @@ These feed Step 6c (interview guide). Ask before recording, and say how notes wi
 2. **Buyers with an existing need paid; prospects without one didn't.** Telkom, DKB and BCG all arrived with the problem already in hand; the dad's network (about 100 meetings), MoM partners, recognition programmes, F&B (about 10 meetings) and Apollo (hundreds of contacts) produced almost nothing (W02–W04; L01–L07).
 3. **DEUS has been targeting who it can reach, not who the evidence shows.** Retail friends, then F&B, then finance, and a website naming ten industries and "40+ brands" against six recorded buyers, several of whose sub-brands appear to be counted as separate logos (ASSUMPTION; deushcs.com; Fact sheet). The decks already name MT and campus recruitment as the first use case (GBA deck), but outreach doesn't follow it.
 4. **Enhance has no ICP, only custom-system clients.** Two buyers, both signed before the product was finished, one churned over bugs and data cleaning, and zero meetings from cold outreach (W02, W03, C01, L07). Discover and Enhance buyers differ in trigger, budget and decision-maker; no one has bought both.
-5. **There is not a single customer quote in the files.** No buyer's own reason for buying, staying, churning or saying no is recorded. Until the interviews in section 8 run, almost every line of this profile stays an Assumption.
+5. **No buyer's own reason for buying, staying, churning or saying no is in the files.** The only buyer-side words are four short quotes on the GBA deck's Telkom slide, chosen by DEUS for its marketing (GBA deck, Success Story; corrected in Step 7). Until the interviews in section 8 run, almost every line of this profile stays an Assumption.
 
 ## Data gaps
 
@@ -235,7 +235,7 @@ These feed Step 6c (interview guide). Ask before recording, and say how notes wi
 - SPH deal value and scope (NO DATA).
 - What JVC Kenwood bought, and which website logos are separate buyers vs brands of existing buyers (NO DATA).
 - Who pays inside each buyer (HR, a business unit, the owner) and from which budget (NO DATA).
-- Any customer verbatims at all (none in the files).
+- Customer verbatims beyond the four quotes on the GBA deck's Telkom slide; no buyer's own reasons are in the files.
 
 ## Questions for the founder
 
