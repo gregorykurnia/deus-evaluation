@@ -24,7 +24,7 @@ and the reports. Step 9's audience is the founder's dad and the founder (interna
 - [x] 1.5 Step 5 setup with the new-venture skill (PLAYBOOK.md "Step 5", first prompt): the ventures/deus/ workspace, no doc section · Haiku 5.5 Max: fills VENTURE.md from existing outputs
 - [x] 1.6 Step 5 PMF with the pmf skill (PLAYBOOK.md "Step 5", second prompt): its venture file, a copy at outputs/05-pmf.md, and the doc's Step 5 section · Opus 5.5 High: diagnosis from the funnel numbers
 - [x] 1.7 Step 6a McKinsey 7S (PLAYBOOK.md "Step 6"): outputs/06a-mckinsey-7s.md and the doc's Step 6a section · Opus 5.5 High: organisation diagnosis
-- [ ] 1.8 Step 6b STP (PLAYBOOK.md "Step 6"): outputs/06b-stp.md and the doc's Step 6b section · Opus 5.5 High: chooses the beachhead segment
+- [x] 1.8 Step 6b STP (PLAYBOOK.md "Step 6"): outputs/06b-stp.md and the doc's Step 6b section · Opus 5.5 High: chooses the beachhead segment
 - [ ] R1 Phase 1 review: check outputs 01–06b and their doc sections against CLAUDE.md rules 1–7 (sources cited, ASSUMPTION and NO DATA labels, closing sections, doc matches report) and fix what's wrong; write outputs/R1-review.md · Opus 5.5 Medium: checks drafts against their sources
 
 ## Phase 2: Pressure test and verdict
