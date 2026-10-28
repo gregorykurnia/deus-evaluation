@@ -34,7 +34,7 @@ and the reports. Step 9's audience is the founder's dad and the founder (interna
 - [x] R2 Phase 2 review: check 06c, 07 and 08 against CLAUDE.md rules and each other (the verdict answers the sense-check's weak points, the 30-day plan is falsifiable) and fix; write outputs/R2-review.md · Opus 5.5 Medium: checks drafts against their sources
 
 ## Phase 3: Write-up
-- [ ] 3.1 Step 9 executive summary (PLAYBOOK.md "Step 9", audience: the founder's dad and the founder, internal): outputs/09-executive-summary.md and the doc's Executive summary section at the top · Sonnet 5.5 xHigh: writes from the verdict, adds no new facts
+- [x] 3.1 Step 9 executive summary (PLAYBOOK.md "Step 9", audience: the founder's dad and the founder, internal): outputs/09-executive-summary.md and the doc's Executive summary section at the top · Sonnet 5.5 xHigh: writes from the verdict, adds no new facts
 - [ ] 3.2 Step 10 master report (PLAYBOOK.md "Step 10"): outputs/10-DEUS-strategic-analysis.md; then add a "Data gaps and open questions" section at the end of the doc and check that every section is filled · Sonnet 5.5 xHigh: combines reports, no new claims
 - [ ] R3 Phase 3 review: check that 09, 10 and the doc make no claim missing from the step reports and keep every source reference; fix; write outputs/R3-review.md · Opus 5.5 Medium: checks drafts against their sources
 
