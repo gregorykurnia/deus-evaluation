@@ -30,7 +30,7 @@ and the reports. Step 9's audience is the founder's dad and the founder (interna
 ## Phase 2: Pressure test and verdict
 - [x] 2.1 Step 6c Interview Guide (PLAYBOOK.md "Step 6"): outputs/06c-interview-guide.md and the doc's Step 6c section; the interviews themselves are an owner line at the end · Opus 5.5 Medium: well-scoped, built from earlier outputs
 - [x] 2.2 Step 7 Sense-Check (PLAYBOOK.md "Step 7"): outputs/07-sense-check.md and the doc's Step 7 section; says the customer voice is missing until the interviews run · Opus 5.5 xHigh: last check before the verdict, steel-mans every conclusion
-- [ ] 2.3 Step 8 verdict with the venture suite's skill (PLAYBOOK.md "Step 8", using the defaults above): its venture file, a copy at outputs/08-verdict.md, and the doc's verdict section · Opus 5.5 xHigh: the call everything feeds into
+- [x] 2.3 Step 8 verdict with the venture suite's skill (PLAYBOOK.md "Step 8", using the defaults above): its venture file, a copy at outputs/08-verdict.md, and the doc's verdict section · Opus 5.5 xHigh: the call everything feeds into
 - [ ] R2 Phase 2 review: check 06c, 07 and 08 against CLAUDE.md rules and each other (the verdict answers the sense-check's weak points, the 30-day plan is falsifiable) and fix; write outputs/R2-review.md · Opus 5.5 Medium: checks drafts against their sources
 
 ## Phase 3: Write-up
