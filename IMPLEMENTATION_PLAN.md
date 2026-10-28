@@ -18,7 +18,7 @@ and the reports. Step 9's audience is the founder's dad and the founder (interna
 
 ## Phase 1: Analysis
 - [x] 1.1 Step 1 Systems Thinking (PLAYBOOK.md "Step 1"): outputs/01-systems-thinking.md and the doc's Step 1 section · Opus 5.5 High: framework analysis of root causes that every later step reads
-- [ ] 1.2 Step 2 Lean Startup (PLAYBOOK.md "Step 2"): outputs/02-lean-startup.md and the doc's Step 2 section · Opus 5.5 High: judges each product's hypotheses and designs experiments
+- [x] 1.2 Step 2 Lean Startup (PLAYBOOK.md "Step 2"): outputs/02-lean-startup.md and the doc's Step 2 section · Opus 5.5 High: judges each product's hypotheses and designs experiments
 - [ ] 1.3 Step 3 ICP Profile (PLAYBOOK.md "Step 3"): outputs/03-icp-profile.md and the doc's Step 3 section · Opus 5.5 High: Backed vs Assumption needs factual accuracy
 - [ ] 1.4 Step 4 BCG Matrix (PLAYBOOK.md "Step 4"): outputs/04-bcg-matrix.md and the doc's Step 4 section · Opus 5.5 High: Indonesian market research with citations plus a portfolio call
 - [ ] 1.5 Step 5 setup with the new-venture skill (PLAYBOOK.md "Step 5", first prompt): the ventures/deus/ workspace, no doc section · Haiku 5.5 Max: fills VENTURE.md from existing outputs
