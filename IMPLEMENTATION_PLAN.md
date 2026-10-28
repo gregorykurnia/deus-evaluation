@@ -12,8 +12,8 @@ Steps 7–10 say so. Step 8's "what changed since the last review" is: first rev
 and the reports. Step 9's audience is the founder's dad and the founder (internal).
 
 ## Before the run
-- [ ] *owner*: make the GitHub repo private (`gh repo edit gregorykurnia/deus-evaluation --visibility private --accept-visibility-change-consequences`): the run pushes company financials and team notes
-- [ ] *owner*: upload the input files into `inputs/` and commit them on `analysis`: the recap PDF at least, plus any deck that isn't on the public sites listed in `CLAUDE.md`
+- [x] *owner*: repo stays public (owner's choice, 2026-10-28); was: make the GitHub repo private (`gh repo edit gregorykurnia/deus-evaluation --visibility private --accept-visibility-change-consequences`): the run pushes company financials and team notes
+- [x] *owner*: upload the input files into `inputs/` and commit them on `analysis`: the recap PDF at least, plus any deck that isn't on the public sites listed in `CLAUDE.md`
 - [ ] *owner*: Step 0 by hand: a Haiku 5.5 Max session in this folder, "Read PLAYBOOK.md and CLAUDE.md, then run Step 0"; answer its number questions; it saves `inputs/deus-fact-sheet.md`, fills the doc's Step 0 section and commits
 
 ## Phase 1: Analysis
