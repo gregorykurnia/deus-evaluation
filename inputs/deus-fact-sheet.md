@@ -10,6 +10,7 @@ These override what Steps 1–12 assumed. A rerun must apply them.
 3. **Why Telkom stopped:** no third year because Telkom's strategy for its MT intake changed. Telkom could not introduce DEUS to similar groups.
 4. **Why BCG churned:** poor service, not lack of need. A lot of bugs and DEUS "weren't able to deliver", and BCG felt abandoned on communication once Wulan handled the account. BCG does not want to come back.
 5. **The dad is the funder** (main funder and shareholder) and says he is fine continuing to support DEUS. The founder has the final say. Cash and runway: the founder says the dad can support; the bank balance is still not known.
+6. **Bu Sovie is DEUS's data person, not a psychometrician** (founder, 2026-10-28, later the same day). The recap only says she "replaced Rizkie", whose role was psychometrics (Recap, Phase 9 and Reference: people), and earlier steps assumed she took that role. She works on **DEUS Enhance client data**: data cleaning and the manual parts of running Enhance. So **nobody on the team today has psychometric or psychologist skills**: a validation plan, a validity note, a screening-set design or a psychologist network has no owner inside DEUS, and Bu Sovie is a second key person (after Ko Will) for keeping the DKB service running.
 
 ## Money
 | Item | Value | Source |
@@ -84,7 +85,8 @@ Sources: Recap, Phases 2, 3, 5, 7, 9, 11; founder, 2026-10-28; founder answers (
 | Average tenure of departed staff | ? | |
 | Why some left | Bu Vera resigned; Fizka left because his father had health problems; Bu Retno was replaced by Yess; Fitri left because DEUS wanted one person to do both data and sales; Wulan for poor performance (one of the reasons BCG failed) | Founder answers |
 | Success metrics for hires | None were set for Bu Vera, Fizka, Bu Retno or Yess | Founder answers |
-| Key person | Ko Will: if he left, keeping Enhance running would be very hard | Founder answers |
+| Roles today | Founder; Ko Will (tech, Enhance); Thania (product); Audrey (marketing and sales, F&B outreach); Bu Sovie (data: Enhance client data cleaning and the manual parts of Enhance). No psychometrician or psychologist | Founder, 2026-10-28 (Correction 6); founder answers; Recap, Phase 11 |
+| Key person | Ko Will: if he left, keeping Enhance running would be very hard. Bu Sovie runs Enhance's manual data work, so she is a second key person for DKB (Correction 6) | Founder answers; Correction 6 |
 | Using own products | DEUS rarely uses Discover or Enhance on its own candidates or team | Founder answers |
 | Current focus | Mainly selling Discover | Founder answers |
 

@@ -98,7 +98,7 @@ The fundamental fix was a way of building software (a senior technical lead, spe
 
 - 19 people besides the founder have worked at DEUS; 4 remain (Recap, Reference: people). 15 have left (derived).
 - **Sales and account roles** were held by seven people: Rosi (junior, "without strong product knowledge"), Bu Vera ("without a sales background", hired as account manager), Fizka (business development, "overlapped with Bu Vera"), Bu Retno (account manager), Audrey (marketing and sales), Wulan (sales and data), Yessica ("not strong in sales and struggled to bring in new clients") (Recap, Phases 1, 3, 4, 7, 8). Only Audrey remains; she runs the F&B outreach today (Founder answers). No hire is recorded as an experienced B2B seller.
-- **Data and psychometrics** were held by five people in a chain: Sahid → Fitri (three months) → Wulan → Rizkie ("did not have a good work ethic") → Bu Sovie (Recap, Phases 1, 6, 7, 8, 9).
+- **Data and psychometrics** were held by five people in a chain: Sahid → Fitri (three months) → Wulan → Rizkie ("did not have a good work ethic") → Bu Sovie (Recap, Phases 1, 6, 7, 8, 9). Bu Sovie holds the data part only, so nobody covers psychometrics today (Correction 6).
 - **Engineering** passed through Ghifari → Andar (+ Kayyis, a friend of Andar's) → Ko Will and David; Ghifari, Andar and Kayyis were let go or not extended (Recap, Phases 3, 4, 8, 9, 10).
 - **Why some left (founder's account):** Bu Vera resigned; Fizka left because his father had health problems; Bu Retno was replaced by Yess; Fitri left because DEUS wanted one person to do both data and sales; Wulan for poor performance (Founder answers).
 - **No success metrics** were set for Bu Vera, Fizka, Bu Retno or Yess (Founder answers).
@@ -148,7 +148,7 @@ flowchart LR
 
 ### Still active today?
 
-**Yes, as a risk.** The team is five, each in a single seat: founder, Ko Will (tech), Thania (product), Audrey (marketing and sales), Bu Sovie (psychometrics) (Recap, Phase 11). Every seat is a single point of failure, and Ko Will's is the one the founder names (Founder answers). Selling today is Audrey (F&B outreach) and the founder (current focus: mainly selling Discover) (Founder answers); neither is recorded as an experienced B2B seller. How much of the founder's week goes to selling is NO DATA.
+**Yes, as a risk.** The team is five, each in a single seat: founder, Ko Will (tech), Thania (product), Audrey (marketing and sales), Bu Sovie (data: Enhance's client data; Correction 6) (Recap, Phase 11). Every seat is a single point of failure, and Ko Will's is the one the founder names (Founder answers). Selling today is Audrey (F&B outreach) and the founder (current focus: mainly selling Discover) (Founder answers); neither is recorded as an experienced B2B seller. How much of the founder's week goes to selling is NO DATA.
 
 ---
 

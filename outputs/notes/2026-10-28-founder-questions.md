@@ -95,7 +95,7 @@ The dad's contacts say "no budget", not "no need" (Founder answers). That is a p
 - **Worth five calls (ASSUMPTION, untested):** offer Discover to assessment providers and psychology bureaus as a tool. They are the ones who "already have an assessment", so selling through them sidesteps the main objection.
 
 **5. Fix the proof (mostly the team's time)**
-- **Validate the personality game.** Bu Sovie could start from past Telkom and Boga results, if that data and candidates' consent exist (ASSUMPTION; NO DATA). Until then, drop "validated" for the personality game in the decks.
+- **Validate the personality game.** An outside psychologist or university institute could start from past Telkom and Boga results (nobody in the team has psychometric skills; Correction 6), if that data and candidates' consent exist (ASSUMPTION; NO DATA). Until then, drop "validated" for the personality game in the decks.
 - **Track how often "too long, small text" comes up.** If it is in most losses, ask Agate what a fix would cost.
 - **Use DEUS's own products:** Discover on the next hire, Enhance for the team's own targets.
 - **Fix the website wording** to "6 client groups, 40+ brands", which is what it is (Fact sheet, Public claims).

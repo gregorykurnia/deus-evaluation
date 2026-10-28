@@ -151,7 +151,7 @@ The time machine can't bring back the Rp1 billion, the years or BCG, which does 
 | Sell first, then build | No new games, modules, features beyond DKB's or rebrand until a buyer pays (Step 8, stops now) |
 | Money as the pass line | A paid pilot or signed order by 2026-12-28, or 2027-01-26 if Agate has passed DEUS a qualified lead by 2026-11-27 (Step 8, the decision dates) |
 | Family money tied to dated consequences | One page signed by the founder and the dad by 2026-11-04: the gates, what a fail means, the last month family money covers a growth gap (Step 8, "What sets the clock") |
-| Price the service, not the modules | One price per intake from Bu Sovie's costing of one intake, never from Telkom's Rp380,000 (Step 8; Step 7, C5) |
+| Price the service, not the modules | One price per intake from the costing of one intake, never from Telkom's Rp380,000 (Step 8; Step 7, C5) |
 | DKB as a fixed-scope contract | Read DKB's contract and log 30 days of DKB work first; a development allowance only if the log shows it is heavy (Step 8, "Keep and secure") |
 | An account owner who is not the developer | Thania as DKB's named account owner; Ko Will's run book and a backup engineer by 2026-11-27 (Step 8) |
 | Test Enhance's need at a credible price | Five calls to the dad's "no budget" contacts, no price quoted, scored on 2026-11-27 (Step 8, the Enhance price check) |

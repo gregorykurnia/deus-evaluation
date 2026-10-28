@@ -57,7 +57,8 @@ DEUS (Human Capital and Business Solutions) is an Indonesian HR-tech company wit
 - DEUS Discover: game-based assessment suite (personality, cognitive, neuroscience, simulation). Games built by Agate International.
 - DEUS Enhance: performance management system, originally built around Delamibrands' (DKB) KPI and appraisal needs. Rebuilt by Ko Will.
 - Potentia: gamified cognitive assessment for kids, acquired. Has its own website for tokens and purchases.
-Current team: 5 people (founder, Ko Will, Thania, Audrey, Bu Sovie).
+Current team: 5 people: founder, Ko Will (tech, Enhance), Thania (product), Audrey (marketing and sales),
+Bu Sovie (data: Enhance client data cleaning and its manual steps; not psychometrics). Nobody on the team is a psychologist.
 The full history is in inputs/DEUS_Company_History_Recap.pdf (11 phases).
 
 ## Rules for every analysis

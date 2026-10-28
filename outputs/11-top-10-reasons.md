@@ -133,7 +133,7 @@ No new recommendations here. Every reason maps to a line in the rerun verdict (S
 | 5 | Nobody hired to sell | No big sales hire now; after the money bar passes, one experienced seller with a 90-day target in money and a role card | Step 8, section 9.4; Step 6a |
 | 6 | Service lost BCG | Thania as DKB's named account owner; Ko Will's run book and a named backup engineer by 2026-11-27; a client data intake rule | Step 8, section 8; Step 1, leverage point 7 |
 | 7 | Enhance became DKB's system | Read DKB's contract by 2026-11-11; a 30-day internal time log; a development allowance only if DKB work costs more than about Rp15.5 juta a month; five founder price calls | Step 8, section 8 |
-| 8 | Little only DEUS offers | Lead with the service, priced per intake from Bu Sovie's costing; Agate's terms in writing; the six paying groups and honest validity claims before the first meeting | Step 8, section 8; Step 7, C22 |
+| 8 | Little only DEUS offers | Lead with the service, priced per intake from the costing of one intake; Agate's terms in writing; the six paying groups and honest validity claims before the first meeting | Step 8, section 8; Step 7, C22 |
 | 9 | Seats set up wrong | Role cards and 30/90-day reviews; who stays named by 2026-11-04 | Step 6a; Step 8, section 8 |
 | 10 | Added more when sales lagged | Stop now: Potentia (zero hours), new builds and hires, Apollo, cold lists, network waves to groups that don't fit | Step 8, section 8 |
 

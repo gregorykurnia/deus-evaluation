@@ -85,7 +85,7 @@ Modules can each pass while the whole fails. The revised steps mostly agree with
 | Potentia: "pause" (Step 2) vs "exit" (Steps 4, 5, 6b) | **Exit.** Zero team hours from now. The site stays up only while it costs close to nothing; sell it, hand it back, license it or shut it by 2027-01-26, once its sales and running cost are known (both NO DATA) |
 | Three pilot prices (Step 2: Rp999,000 for 5 candidates; Step 5: Rp999,000 = trying, Rp10 juta = switching; Step 6b: side-by-side at the Rp10 juta minimum) | **One rule.** Only an order at or above the Rp10 juta minimum order (Pitch deck, A9) counts toward any pass line. The Rp999,000 pilot is offered only in the F&B reason calls, as a learning signal |
 | Two Discover price lists (per-module table vs fixed packages) | **The per-module table** (GBA deck, Product Pricing; Pitch deck, A9) is the list, because it appears in both decks. The packages (Pitch deck, A8) leave the beachhead materials. An intake is quoted per intake, from its costed delivery (section 8) |
-| Telkom's price as the anchor (Step 6b, section 4.2) vs pricing from cost (first review) | **Cost.** The first intake's quote starts from what it costs to run (Bu Sovie's costing), never from Telkom's Rp380,000, which is not evidence of pricing power (Step 7, C5) |
+| Telkom's price as the anchor (Step 6b, section 4.2) vs pricing from cost (first review) | **Cost.** The first intake's quote starts from what it costs to run (the intake costing, section 8), never from Telkom's Rp380,000, which is not evidence of pricing power (Step 7, C5) |
 | Dates spread over Steps 2 (day 60), 5 (2026-11-11, 2026-11-27) and 6b (day 90, 2027-01-26) | **One set**, in section 8: it keeps Step 5's dates, uses Step 6b's day 90 only if Agate passes DEUS a lead, and replaces the rest |
 | Step 2's Experiment 3 (side-by-side pilot to F&B prospects) vs Step 6b (F&B exited) | **Reasons only.** The F&B calls run as Step 6c interviews and Step 5's M3; F&B gets no selling time and does not count toward the Discover pass |
 
@@ -95,7 +95,7 @@ Modules can each pass while the whole fails. The revised steps mostly agree with
 |---|---|---|
 | Central assessment units with an open search exist in numbers, and Agate or introductions can reach them | Phase 7 | Gates 1 and 2 |
 | Agate passes DEUS some open-search leads, rather than keeping them for its own team or another partner | Phase 11 (the partnership) | Gate 1, 2026-11-11 |
-| An assessment unit buys DEUS's service although DEUS's own game has no validation | Phase 1 | Gate 2's fail line; Bu Sovie's validity note |
+| An assessment unit buys DEUS's service although DEUS's own game has no validation | Phase 1 | Gate 2's fail line; the validity note, which needs Agate's validation details and an outside psychologist because nobody in the team has psychometric skills (Correction 6) |
 | Telkom's Assessment Center bought the service, not the game (H2), and stopped for its own reasons (H3) | Phase 7 | The Assessment Center interview (Step 6c, group b) |
 | DKB stays for the product, not only the relationship (H4) | Phase 3 | DKB's server logs and decision-maker interview |
 | The DKB contract earns more than it costs, and DKB would accept a monthly development allowance | Phase 3; DKB's refusal of priced changes (Founder answers) | 30-day time log; the allowance proposal after the interview |
@@ -117,7 +117,7 @@ PLAYBOOK question 6 asks which assets are genuinely strong (Step 7, section 9, i
 | Telkom case | Two yearly MT intakes; Telkom plus six subsidiaries; 1,000+ candidates; 30+ provinces; results in one day; four quotes, one from Telkom Group Selection (Recap, Phase 7; GBA deck, Success Story) | Real, lapsed, and reached through Agate (Correction 2). Permission to use it by name: NO DATA. The people who delivered it have mostly left (Step 5, section 4) |
 | DEUS's own personality game and digitised report | DEUS owns them; the report was digitised with Thania (Recap, Phases 6, 9) | The only Discover part no other partner sells; no validation; called long, with small text (Fact sheet, Validation and Funnel) |
 | Next Chapter partnership | One of five sales partners; no purchase cost; the cognitive module is validated (Correction 1; Fact sheet, Validation) | A point of parity, not a difference. Terms, margin and lead rule: NO DATA (Fact sheet, gap 2) |
-| Psychometric skill | Bu Sovie (Recap, Phase 9) | Real; needed for any validation and any intake. One person (Step 6a) |
+| Psychometric skill | None in the team: Bu Sovie is Enhance's data person, not a psychometrician (Correction 6) | **Missing**; needed for any validation, validity claim or screening-set design, so it has to come from Agate or an outside psychologist or institute |
 | Four who stayed | Ko Will, Thania, Audrey, Bu Sovie (Recap, Phase 11) | Real; each is the only person in their seat (Step 6a) |
 | The dad's funding, judgement and senior access | Funds the gap and will continue; ordered the rebuild that produced the best asset; brought DKB (Correction 5; Recap, Phases 3, 10) | Real for funding, judgement and introductions; about one deal from about 100 meetings as a lead channel (Fact sheet, Funnel) |
 | Potentia site | deuspotentia.com sells codes at Rp329,000–429,000 per child (Fact sheet, Pricing) | Sales and running cost NO DATA; free to acquire (Founder answers) |
@@ -197,7 +197,7 @@ In this order, because DKB pays several times what packaged systems list and has
 | | |
 |---|---|
 | **Buyer** | The head of a central assessment unit, or the owner of an MT, graduate or campus intake of several hundred candidates, at a large group: state-owned and private groups in one list, ordered after the Telkom interview (Step 6b, S1 and S2). Assessment-centre providers (S9) get one question in that interview, not a list |
-| **Offer** | The game-based screening stage of an intake, run as a service alongside the unit's assessors: fixed scope (modules, candidate count, turnaround, debrief), one price per intake **from Bu Sovie's costing of one intake, never from Telkom's Rp380,000** (Step 7, C5), the Telkom record (with permission) and an honest validity note (Step 6b, sections 3.4, 4.2) |
+| **Offer** | The game-based screening stage of an intake, run as a service alongside the unit's assessors: fixed scope (modules, candidate count, turnaround, debrief), one price per intake **from the costing of one intake, never from Telkom's Rp380,000** (Step 7, C5), the Telkom record (with permission) and an honest validity note (Step 6b, sections 3.4, 4.2) |
 | **Routes** | Agate's leads, if Agate's written rule gives DEUS some; introductions from at least 5 named people. No cold email (Founder answers, Step 3) |
 | **Pass and fail lines** | The dates in the table below. Anything short of a line on its date is a fail, acted on that week; there is no extra round |
 
@@ -237,12 +237,12 @@ Proposed from Step 4's split and Step 6a's seats (ASSUMPTION: today's split of e
 
 | Person | Job | Gate it serves |
 |---|---|---|
-| Founder | The Agate meeting (week 1); the Telkom Assessment Center interview; the DKB decision-maker interview (with Thania); every programme-owner meeting; the five Enhance calls; the note with the dad; the Friday review | All |
+| Founder | The Agate meeting (week 1); the Telkom Assessment Center interview; the DKB decision-maker interview (with Thania); every programme-owner meeting; the five Enhance calls; the note with the dad; the Friday review. Also the cost of running one 1,000-candidate intake with today's team, by 2026-11-27 (inputs from Ko Will and Bu Sovie), and the validity note and a validation plan for the personality game, sourced from Agate (what Next Chapter's validation covers) and an outside psychologist or university institute, since nobody in the team has psychometric skills (Correction 6; Step 6b, section 4.2) | All |
 | The founder's dad | At least 5 named introducers, among them heads of assessment units and HR heads who fit the profile, not general network waves; reconnecting the five Enhance contacts; signing the note; the Friday numbers. Does not attend the DKB interview (Step 6c) | 2026-11-04, Gate 1, the Enhance check |
 | Audrey | The list of 20–30 named groups with a central assessment unit or group-run intake, each with intake month and who could introduce DEUS; at least 10 introductions asked; booking the founder's meetings; the shared log (Step 5, M1) | Gates 1–2 |
 | Thania | Leads the F&B reason calls (at least 7 of about 10; Step 5, M3); DKB's account owner; the one-page intake offer; the two deck fixes | Gate 2; DKB |
-| Bu Sovie | The cost of running one 1,000-candidate intake with today's team, by 2026-11-27; the validity note (what is validated, what is not); a validation plan for the personality game, not the study itself (Step 6b, section 4.2) | Gate 2; the money bar's price |
-| Ko Will | The DKB service; DKB's server logs; the 30-day time log (with Thania); the run book and the backup engineer by 2026-11-27 | DKB; the Enhance floor |
+| Bu Sovie | Enhance's client data work for DKB (cleaning and the manual steps), written into the run book with Ko Will so a second person could do it; the data-handling part of the intake costing (candidate lists, cleaning, results files) (Correction 6) | DKB; Gate 2 |
+| Ko Will | The DKB service; DKB's server logs; the 30-day time log (with Thania); the run book and the backup engineer by 2026-11-27; the platform and support part of the intake costing | DKB; the Enhance floor; Gate 2 |
 
 ---
 
@@ -298,7 +298,7 @@ Proposed from Step 4's split and Step 6a's seats (ASSUMPTION: today's split of e
    - An Enhance client leaves its fee minus its server and the people time it takes. The people time is **NO DATA** until the DKB time log (Step 5, M6).
    - For scale only (revenue, before those costs): at the Growth-tier list, 1,000 candidates on DEUS's own game alone would be Rp69 juta, on all four modules Rp199 juta (Pitch deck, A9; derived); Telkom's second intake was Rp380 juta for a run intake (Fact sheet). After the office cut, the yearly gap is about Rp60–228 juta (derived: Rp5–19 juta × 12). So whether one intake a year closes it depends on the price per candidate and the delivery cost, not on landing a deal alone.
 
-**How many contracts it takes** is the remaining gap divided by the margin per contract. Neither margin is known today, so **the next 30 days measure the two numbers that decide it:** Bu Sovie's cost of one 1,000-candidate intake, and the DKB time log (section 10). A pass sets the bar in those terms: by 2027-04-30, one contracted deal whose costed margin covers at least three months of the gap (section 8).
+**How many contracts it takes** is the remaining gap divided by the margin per contract. Neither margin is known today, so **the next 30 days measure the two numbers that decide it:** the cost of one 1,000-candidate intake, and the DKB time log (section 10). A pass sets the bar in those terms: by 2027-04-30, one contracted deal whose costed margin covers at least three months of the gap (section 8).
 
 **The two routes, said plainly.** The fastest certain route to losing little or nothing is cost: the shrink in section 8 is about break-even. The only route to a company worth growing is a second buyer type that pays more than it costs to serve, and nobody has shown one yet; the next two to three months are for finding out.
 

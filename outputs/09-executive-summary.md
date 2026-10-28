@@ -46,7 +46,7 @@ Sources: `inputs/DEUS_Company_History_Recap.pdf` ("Recap, Phase N"), `inputs/deu
 
 **Keep and secure DKB:** the contract read; DKB's server logs and decision-maker interview; a 30-day internal time log; Ko Will's run book and a named backup engineer; Thania as account owner.
 
-**Run one growth bet.** Discover as a service to the heads of central assessment units and owners of large MT or graduate intakes, reached through Agate's leads and at least 5 named introducers, never cold email, priced per intake from Bu Sovie's costing, not from Telkom's per-candidate price (Step 8, section 8; Step 7, C5).
+**Run one growth bet.** Discover as a service to the heads of central assessment units and owners of large MT or graduate intakes, reached through Agate's leads and at least 5 named introducers, never cold email, priced per intake from the costing of one intake, not from Telkom's per-candidate price (Step 8, section 8; Step 7, C5).
 
 **Make one cheap check.** The founder calls five of the dad's "no budget" contacts and asks what they use and what a DKB-like system would have to cost, quoting no price. Enhance gets a money test only if two name a price at or above the floor plus Rp5 juta a month.
 

@@ -33,13 +33,13 @@ The strongest option.
 ### 2. A university psychology institute: validation partner first, then seller
 - **The evidence:** LPTUI (UI's applied psychology institute) ran a ministry selection for more than 20,000 participants in 2025 [W4]. In July 2026 Mekari Talenta built its recruitment assessments with LPTUI [W2, W3].
 - **What that shows:** these institutes run mass selection and license their tests into other companies' products. Agate did the same thing for Next Chapter with a research institute (Step 4, W8).
-- **The pitch:** co-run the validation study of DEUS's personality game, led by Bu Sovie, and the institute then offers the game in its own selection work. That one deal fixes DEUS's biggest weakness, the missing validation (Fact sheet, Validation), and gives DEUS a seller trusted by state groups and government. Their tests are the traditional kind (one is 570 questions and 150 minutes [W3]), so a game is something they don't already have.
+- **The pitch:** co-run the validation study of DEUS's personality game, led by the institute because nobody in DEUS has psychometric skills (Correction 6), and the institute then offers the game in its own selection work. That one deal fixes DEUS's biggest weakness, the missing validation (Fact sheet, Validation), and gives DEUS a seller trusted by state groups and government. Their tests are the traditional kind (one is 570 questions and 150 minutes [W3]), so a game is something they don't already have.
 - **What could kill it:** academic timelines, a demand for IP ownership, or no past results data to validate on (NO DATA). Fix "long, small text" (Founder answers) before pitching them.
 
 ### 3. Psychology bureaus as white-label resellers
 - **Why:** they are the "we already have an assessment" that blocks DEUS, so selling through them turns the most common objection into a channel (Fact sheet, Funnel).
 - **The pitch:** a wholesale price per candidate, under their brand; DEUS runs the platform and candidate support.
-- **A rule to check:** Indonesia's psychology code of ethics reportedly requires psychological assessment to be done by licensed psychologists [W7]. If that covers hiring tests, bureaus are the gatekeepers by rule, which is another reason to go through them rather than around them. Unverified; ask Bu Sovie.
+- **A rule to check:** Indonesia's psychology code of ethics reportedly requires psychological assessment to be done by licensed psychologists [W7]. If that covers hiring tests, bureaus are the gatekeepers by rule, which is another reason to go through them rather than around them. Unverified; ask the institute or a licensed psychologist, since nobody in DEUS is one (Correction 6).
 - **The test:** five calls, aiming for one paid pilot on one of their client's intakes.
 - **The risks:** a margin split, and the four other partners can call the same bureaus (Correction 1).
 
@@ -69,7 +69,7 @@ The strongest option.
 | When | Action | Owner (proposed) |
 |---|---|---|
 | Weeks 1–2 | ACI meeting: the reseller arrangement, permission to name the case, and whether ACI's own non-MT intakes could use DEUS | Founder |
-| Weeks 1–3 | Check whether Telkom and Boga results and candidate consent exist; then pitch the validation partnership to LPTUI and one other university institute | Bu Sovie, founder |
+| Weeks 1–3 | Check whether Telkom and Boga results and candidate consent exist; then pitch the validation partnership to LPTUI and one other university institute | Founder; Bu Sovie for the data |
 | Weeks 2–4 | Five bureau calls; send Agate the three requests above | Founder, Audrey |
 | When ready | Indonesian case page, once ACI allows naming | Thania |
 

@@ -40,7 +40,7 @@ The recap lists 19 people besides the founder; 4 remain, so 15 have left (Recap,
 | Seat | Who held it, in order | Still here | Source |
 |---|---|---|---|
 | Sales and account management | Rosi (junior BD) → Bu Vera (senior, "without a sales background", account manager) + Fizka (BD, "partly overlapped with Bu Vera's") → Bu Retno (account manager) + Audrey (marketing and sales) + Wulan (sales and data) → Yessica (account management, "not strong in sales") | Audrey | Recap, Phases 1, 3, 4, 7, 8 |
-| Psychometrics and data | Sahid (psychometrics, then data "until he was overloaded") → Fitri (data, three months) → Wulan (sales and data, "replacing Fitri") → Rizkie (psychometrics, "did not have a good work ethic") → Bu Sovie | Bu Sovie | Recap, Phases 1, 6, 7, 8, 9 |
+| Psychometrics and data | Sahid (psychometrics, then data "until he was overloaded") → Fitri (data, three months) → Wulan (sales and data, "replacing Fitri") → Rizkie (psychometrics, "did not have a good work ethic") → Bu Sovie (data only: Enhance client data; Correction 6) | Bu Sovie for data; **nobody for psychometrics** | Recap, Phases 1, 6, 7, 8, 9 |
 | Engineering | Ghifari ("no guidance") → Andar (+ Yuli for QA, + Kayyis, "a friend of Andar's", frontend) → Ko Will and David (the rebuild the dad asked for) | Ko Will | Recap, Phases 3, 4, 8, 9, 10 |
 | Product and project management | Thania (product: PRDs, Figma, digitised report); Firdaus (project manager, Potentia site) | Thania | Recap, Phases 6, 9, 10 |
 
@@ -94,7 +94,7 @@ So the honest answer to the playbook's question "hiring, role design or manageme
 ### Structure: who does what, who decides
 
 **Facts.**
-- Today: founder plus four single seats: Ko Will (tech), Thania (product), Audrey (marketing and sales), Bu Sovie (psychometrics) (Recap, Phase 11; Step 1, Loop 2). Nobody holds a data, QA, project-management, client-success or dedicated selling seat.
+- Today: founder plus four single seats: Ko Will (tech), Thania (product), Audrey (marketing and sales), Bu Sovie (data: Enhance's client data and its manual steps; Correction 6) (Recap, Phase 11; Step 1, Loop 2). Nobody holds a psychometrics, QA, project-management, client-success or dedicated selling seat.
 - **The founder has the final say.** The dad is the main funder and a shareholder, and is fine continuing to support DEUS (Correction 5; Founder answers). No funding amount or review date is written (Fact sheet, Money).
 - The dad "was never a hire, but he brought the DKB relationship, most early leads, and the request that Ko Will and David rebuild Enhance" (Recap, Reference: people).
 - In the past, roles overlapped (Fizka and Bu Vera, Phase 4), two jobs were merged into one seat (data and sales; Phase 7; Founder answers), and two engineering efforts ran in parallel under different direction (Andar's Enhance and the dad-requested rebuild, Phases 9–10).
@@ -160,7 +160,7 @@ So the honest answer to the playbook's question "hiring, role design or manageme
 - Monthly team cost is about Rp40–50 juta, an average of Rp8–10 juta per person (Fact sheet). Ko Will's pay, and what the market pays a comparable engineer: NO DATA.
 - No one recorded as an experienced B2B seller has ever been hired (Step 1, Loop 2).
 
-**Interpretation.** The profile DEUS has attracted is early-career or adjacent-skill people at low cost. The ones who stayed are the ones whose seat was clearly defined and matched their skill (product, engineering, psychometrics); the seats that churned are the ones defined around a symptom (sales, data, QA). The remaining team is a **stronger core than the history suggests**: the product person who has stayed longest, the engineer whose system passed "a clear audit" (Recap, Phase 10), a psychometrician, and a marketer who has been through every sales attempt since Phase 7. But the strongest of them is also the biggest risk: **the company's only income depends on one engineer's knowledge**, with no documentation or backup recorded.
+**Interpretation.** The profile DEUS has attracted is early-career or adjacent-skill people at low cost. The ones who stayed are the ones whose seat was clearly defined and matched their skill (product, engineering, psychometrics); the seats that churned are the ones defined around a symptom (sales, data, QA). The remaining team is a **stronger core than the history suggests**: the product person who has stayed longest, the engineer whose system passed "a clear audit" (Recap, Phase 10), a data person who runs Enhance's manual data work (Correction 6), and a marketer who has been through every sales attempt since Phase 7. But the strongest of them is also the biggest risk: **the company's only income depends on one engineer's knowledge**, with no documentation or backup recorded.
 
 **Talent strength 3/5. Critical gaps:** an enterprise seller, client success, data operations, engineering backup. **Retention risk: high**, because each of the four is a single point of failure, Ko Will above all, and pay at Rp8–10 juta on average (Fact sheet) with no revenue growth gives little reason to stay if an outside offer comes (ASSUMPTION).
 
@@ -300,13 +300,14 @@ The 7S sequence is: anchor the values, set the strategy, then structure and syst
    |---|---|---|
    | Selling (new buyers) | Founder | Meetings and paid pilots with assessment units reached through Agate and introductions (Step 5's 30-day plan) |
    | Marketing and pipeline | Audrey | Target list of assessment units, outreach, case study, funnel and loss-reason log; F&B outreach only as far as Step 5's ten call-backs |
-   | Assessment design and delivery | Bu Sovie | Running pilots; a validation plan for DEUS's personality game; norms; the report a buyer reads; client data intake rules |
+   | Data | Bu Sovie | Enhance's client data and manual steps; candidate data and results files for any intake; client data intake rules (Correction 6) |
+| Assessment design | Nobody in the team (Correction 6): bought in from an outside psychologist or institute | Pilot design; a validation plan for DEUS's personality game; norms; the report a buyer reads |
    | Product and client success | Thania | The Discover buyer experience (game length and text size, the founder's loss reasons); DKB as an account: written scope, change requests, a named contact so no client is left unanswered again (Correction 4) |
    | Engineering | Ko Will | Platform for both products; DKB work inside an agreed weekly time cap; the Enhance documentation kept current |
 
    ASSUMPTION: the founder taking the selling seat is the cheapest way to fill the gap, given the monthly loss (Fact sheet); it is also the seat where the founder's final say and the dad's senior access help most. The table never merges two unrelated jobs into one seat, the mistake that cost Fitri, Wulan and BCG (section 1).
 7. **A role card for every seat (Systems, Staff).** One page: the outcome expected in 90 days, who judges it, what support the person gets, and what happens if it is missed. Reviewed in writing at day 30 and day 90. Start with the five people already here, the founder's own card first. This is the success metric none of the four sales hires had (Founder answers). *Check:* five cards, five 30-day reviews on file.
-8. **Remove the other single points of failure (Systems, Skills).** Bu Sovie documents scoring and norms; the founder files DEUS's Agate partner terms (Fact sheet gap 2). *Check:* a person outside the seat can follow each document.
+8. **Remove the other single points of failure (Systems, Skills).** Bu Sovie writes Enhance's manual data steps into the run book; the founder files DEUS's Agate partner terms (Fact sheet gap 2). *Check:* a person outside the seat can follow each document.
 9. **The next hire is a seller, and only when the numbers allow it (Staff).** No hire until cash and the funding amount are known. When there is a hire, it is someone who has sold to enterprise HR or assessment buyers before, with a role card, and not an account manager (section 1). *Check:* the hiring decision has a written case under rule 1.
 10. **Change how the founder spends the week (Style).** Proposed: at least half of the founder's working time on selling and on the weekly numbers, the rest on managing the four (role cards, reviews, coaching); product work is delegated to Thania. ASSUMPTION: today the split leans to product (the year spent on the Discover report with Thania, Phase 6); the actual split is NO DATA. *Check:* the founder's calendar for one week, reviewed at the monthly founder–dad meeting.
 
