@@ -10,6 +10,17 @@ DEUS (Human Capital and Business Solutions) is an Indonesian HR-tech company wit
 Current team: 5 people (founder, Ko Will, Thania, Audrey, Bu Sovie).
 The full history is in inputs/DEUS_Company_History_Recap.pdf (11 phases).
 
+## Public sources
+Much of the product and positioning information is online; read it there and cite the URL:
+- https://deushcs.com: main site (products, solution pages, clients page, guides). Claims "40+ brands" and shows
+  logos beyond the recap's five clients.
+- https://deck.deushcs.com: Company Profile 2026 (Discover, Enhance, Next Chapter, Potentia).
+- https://discover.deushcs.com and https://deuspotentia.com: product sites, rendered in the browser (a plain
+  fetch returns only the title; use a browser tool to read them).
+These are DEUS's own marketing: use them for how DEUS pitches itself, never as evidence of revenue, clients
+or traction. Where a site claim differs from the recap or the fact sheet, say so: that gap is part of the analysis.
+No pricing is published.
+
 ## Rules for every analysis
 1. Ground every claim in a source: cite the recap phase (e.g. "Recap, Phase 8") or the file name. Anything not in the files is labelled ASSUMPTION.
 2. Never invent numbers. If a number is needed and missing, write "NO DATA" and add it to the "Data gaps" list at the end of the report.
