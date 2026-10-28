@@ -183,6 +183,7 @@ Proposed review date: a pivot-or-persevere meeting 60 days after Experiment 1 st
 - Potentia sales through deuspotentia.com, and its running cost (NO DATA).
 - Whether Ko Will's Enhance is configurable for other companies or built around DKB (NO DATA; Step 1).
 - Share of dev time that goes to DKB-only work (NO DATA; Step 1).
+- Customer acquisition cost and lifetime value per channel and product, needed before any paid growth engine (NO DATA).
 - Why Potentia was acquired and what it cost (Recap, Phase 9: not recorded).
 - Whether Telkom will run a third year, and how its first deal was priced (Fact sheet: NO DATA).
 

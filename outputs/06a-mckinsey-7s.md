@@ -102,7 +102,7 @@ So the honest answer to the playbook's question "hiring, role design or manageme
 
 **Facts: what DEUS says.**
 - Mission: "Menghadirkan solusi berbasis bukti" (to deliver evidence-based solutions) that help organisations understand and develop each individual's best potential (deck.deushcs.com).
-- Values: Innovative, Inspiring, Invested in Our Clients, Inclusive, Insightful ("solutions with data and deep understanding"), Improvement Oriented (deck.deushcs.com).
+- Values: Innovative, Inspiring, Invested in Our Clients, Inclusive, Insightful ("dengan data dan pemahaman yang mendalam", translated: with data and deep understanding), Improvement Oriented (deck.deushcs.com).
 - Main site: "Evidence over gut feel"; "Companies say people are their most important asset. Then they make decisions about them with the weakest data they have" (deushcs.com).
 
 **Facts: what the history shows.**

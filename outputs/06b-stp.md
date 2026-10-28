@@ -271,6 +271,7 @@ Concentrate on one buyer: the group HR team that owns a yearly MT intake for sev
 - DEUS's contract terms with Agate: can Agate sell the same games to DEUS's target buyers (NO DATA; Fact sheet gap 3).
 - Who delivered the Telkom intakes, and whether any run sheet or records remain (NO DATA).
 - Talentlytica's and Talentics's product format and prices, to place them on the map (NO DATA; only their client claims, Step 4, W3).
+- Assessment budgets per segment, and how buyers see DEUS against Agate and the other providers on the positioning map (NO DATA; buyers have not been asked, Step 6c).
 - Loss reasons from the F&B meetings and the finance list (NO DATA; Step 5, M2 and M4).
 - Which modules the decks' validity and norming claims cover (NO DATA; Step 2).
 - Cash in bank and runway, which set how long the beachhead can be tested (NO DATA; Fact sheet gap 1).

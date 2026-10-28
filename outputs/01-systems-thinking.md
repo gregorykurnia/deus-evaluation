@@ -117,8 +117,8 @@ flowchart LR
 
 ### Archetype: Fixes that fail (sales seat) and Shifting the burden (data and tech seats)
 
-- **Sales seat, Fixes that fail.** The problem was "we cannot sell". The fix each time was to hire for the seat, but the person hired was an account manager or a junior, not a seller (Bu Vera, Bu Retno, Yessica; Rosi). The same gap reappeared after each one, and the company never tried the hire the problem called for.
-- **Data and tech seats, Shifting the burden.** Each replacement fixed the symptom (an empty chair) while the fundamental fix (a role defined by someone who understands the work, and a way to check it) was never built. That is why the replacement often had "similar gaps".
+- **Sales seat, Fixes that fail.** The problem was that DEUS could not sell ("Apart from Telkom, we struggled very hard to sell anything", Recap, Phase 7). The fix each time was to hire for the seat, but the person hired was an account manager or a junior, not a seller (Bu Vera, Bu Retno, Yessica; Rosi). The same gap reappeared after each one, and the company never tried the hire the problem called for.
+- **Data and tech seats, Shifting the burden.** Each replacement fixed the symptom (an empty chair) while the fundamental fix (a role defined by someone who understands the work, and a way to check it) was never built. That is why replacements tended to show the same gaps as the people they replaced (interpretation from the departures listed in Recap, Reference: people).
 
 **Interpretation, stated plainly:** the evidence points more to **role design and management** than to bad luck in hiring. Three signals: (1) the seat meant to fix sales was filled four times (Rosi, junior; Bu Vera, no sales background; Bu Retno, account manager; Yessica, account management, not strong in sales), and none is recorded as an experienced seller; (2) roles overlapped (Fizka and Bu Vera, Phase 4; "sales and data" in one person, Wulan, Phase 7); (3) a psychometrics hire ended up doing data work until overloaded (Phase 6), which is a role allocation decision, not a hiring one. Step 6a (McKinsey 7S) should test this further.
 

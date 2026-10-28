@@ -128,7 +128,7 @@ Reminder: remove personal data you do not need before pasting.
 
 ## 4. Do Discover and Enhance have different buyers?
 
-Yes. Discover's evidenced buyer is an **HR / talent-acquisition team with a yearly volume hiring event** (W04). Enhance's buyers are **groups with complex KPI and pay systems that want a system built around them** (W02, W03). The trigger, the budget line (recruitment vs performance and compensation) and the likely decision-maker differ (ASSUMPTION for the decision-maker: NO DATA on who signed either deal). No buyer has bought both products (Fact sheet, Revenue by client). **Interpretation:** a "one HR platform for everything" pitch to the same company is not supported by any purchase so far.
+Yes. Discover's evidenced buyer is an **HR / talent-acquisition team with a yearly volume hiring event** (W04). Enhance's buyers are **groups with complex KPI and pay systems that want a system built around them** (W02, W03). The trigger, the budget line (recruitment vs performance and compensation) and the likely decision-maker differ (ASSUMPTION for the decision-maker: NO DATA on who signed either deal). No buyer has bought both products (Fact sheet, Revenue by client). **Interpretation:** the site's "One partner to hire, develop and pay" pitch (deushcs.com) to the same company is not supported by any purchase so far.
 
 Potentia's buyers are schools (W05; and deuspotentia.com targets "parents and schools", deushcs.com). Note that two of the six buyers are schools (W05, W06), both small deals (Fact sheet). That is a separate, low-value segment, not a third ICP to chase now (Step 2 recommends pausing Potentia).
 
@@ -156,7 +156,7 @@ Potentia's buyers are schools (W05; and deuspotentia.com targets "parents and sc
 
 | Stop chasing | Evidence | Status |
 |---|---|---|
-| Companies reached through a relationship but without an active need ("friends of the family who might find it interesting") | About 100 meetings across all waves of the dad's network, almost no deals (L01, L02; Fact sheet). DKB is the exception and it had an urgent need already (W02). **Keep** network introductions only to companies that pass the ICP signals in section 2 | Backed (L01, L02, W02) |
+| Companies reached through a relationship but without an active need (the dad's leads were "mostly retail companies and his friends", Recap, Phase 5) | About 100 meetings across all waves of the dad's network, almost no deals (L01, L02; Fact sheet). DKB is the exception and it had an urgent need already (W02). **Keep** network introductions only to companies that pass the ICP signals in section 2 | Backed (L01, L02, W02) |
 | F&B for Discover | One F&B buyer, one-off and not satisfied (W01, C02); 100+ contacts and about 10 meetings in Phase 11, 0 deals (L05). ASSUMPTION for the cause: F&B hires mostly frontline staff in volume at low per-head budgets, where Rp69,000–279,000 per candidate (Pitch deck, A9) is hard to justify; lost reasons are NO DATA | Backed for the outcome; cause Assumption |
 | Cold Enhance outreach to general lists | Hundreds of Apollo contacts, 0 meetings (L07); both Enhance buyers came through a relationship or an existing need (W02, W03) | Backed (L07) |
 | Partners and resellers on MoMs without a sales target or a named first deal | MoMs signed, no transactions (L03) | Backed (L03) |

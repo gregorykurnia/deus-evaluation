@@ -165,7 +165,7 @@ A proposed split, to be adjusted by the founder (ASSUMPTION: the current split i
 |---|---|
 | The one evidenced buyer type is Discover's: a large group with a yearly, high-volume MT intake, already looking for a gamified vendor (Step 3, key finding 1) | **Supports "invest in Discover"**, and says how: by the buyer's situation, not by industry. The BUMN joint recruitment figures (W7) suggest the number of high-volume hiring groups is large; whether individual state companies buy their own assessment for MT programmes outside the joint process is NO DATA |
 | Enhance has no ICP, only custom-system clients (Step 3, key finding 4) | **Supports "maintain, don't invest"**. Investing in a product with no defined buyer is the build-before-validate pattern again (Step 1, Loop 5) |
-| Discover and Enhance buyers differ; no one has bought both (Step 3, section 4) | **Supports separating them.** No evidence that keeping Enhance helps sell Discover (no shared buyer, budget or decision-maker). The "one HR platform" synergy is unproven |
+| Discover and Enhance buyers differ; no one has bought both (Step 3, section 4) | **Supports separating them.** No evidence that keeping Enhance helps sell Discover (no shared buyer, budget or decision-maker). The "One partner to hire, develop and pay" synergy the site pitches (deushcs.com) is unproven |
 | Schools are a separate, low-value segment (Step 3, section 4) | **Supports "exit Potentia".** |
 | Telkom paid above list price; price was not the deciding factor (Step 3, section 2) | **Supports selling on fit, not discounts.** Packages of 5–100 candidates (Pitch deck, A8) target a different, smaller buyer than the ICP |
 
