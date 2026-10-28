@@ -89,7 +89,7 @@ flowchart LR
 - **Not luck, a referral DEUS asked for.** The real Telkom Assessment Center asked Agate for a gamified assessment, and Agate brought DEUS in (Correction 2). In the rerun the same thing happens under a clause, so Agate's other enquiries reach DEUS too, and DEUS asks Agate each quarter who has been asking (ASSUMPTION: how many such enquiries Agate got is NO DATA).
 - **After the first intake:** a debrief interview, a written case study, and a question to the unit's head: who else runs an assessment like yours? Telkom could not introduce DEUS to similar groups (Correction 3), so the rerun does not count on it.
 - **Before the second intake ends, a second unit.** Approached through Agate and named introductions. Telkom stopped when its MT strategy changed (Correction 3, founder's account): a programme buyer lasts as long as its programme (Step 3), so the rerun never lets one unit be all of Discover.
-- **Price the service, not the modules.** Telkom paid Rp380,000 per candidate for a run intake across 30+ provinces with results in one day (Fact sheet). Step 7 reads that as a fee for running the intake, not pricing power (Step 7, C5), which is what the rerun sells.
+- **Price the service, not the modules.** Telkom's Assessment Center paid Rp380,000 per candidate for a run intake across 30+ provinces with results in one day (Fact sheet). Step 7 reads that as a fee for running the intake, not pricing power (Step 7, C5), which is what the rerun sells.
 - **Product work follows what these buyers ask for.** The year spent digitising the report (Recap, Phase 6) happens only if buyers name the report as their reason.
 
 ### Phases 8–11 in more detail: what doesn't happen

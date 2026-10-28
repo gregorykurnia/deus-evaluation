@@ -66,7 +66,7 @@ the analysis's call (rule 3 applies). Each rerun replaces its own doc section (i
 - [x] 5.4 Rerun Step 10 master report (PLAYBOOK.md "Step 10"): outputs/10-DEUS-strategic-analysis.md; replace the doc's "Data gaps and open questions" section and check every section is filled · Sonnet 5.5 xHigh: combines reports, no new claims
 - [x] 5.5 Revise Step 11 top 10 reasons (same brief as its header): outputs/11-top-10-reasons.md and its doc section, from the revised reports · Opus 5.5 High: re-ranks causes with the corrected facts
 - [x] 5.6 Revise Step 12 time-machine rerun (same brief as its header): outputs/12-time-machine-rerun.md and its doc section; the rerun's channel now includes Agate referrals · Opus 5.5 High: a judgement built on Steps 1–11
-- [ ] R5 Phase 5 review: check 07–12 and the doc against CLAUDE.md rules and each other (the verdict answers the sense-check, 09–12 make no claim missing from the step reports, no stale "bought the games" or "Telkom" wording) and fix; write outputs/R5-review.md · Opus 5.5 Medium: checks drafts against their sources
+- [x] R5 Phase 5 review: check 07–12 and the doc against CLAUDE.md rules and each other (the verdict answers the sense-check, 09–12 make no claim missing from the step reports, no stale "bought the games" or "Telkom" wording) and fix; write outputs/R5-review.md · Opus 5.5 Medium: checks drafts against their sources
 
 ## After the run (owner)
 - [ ] *owner*: read the doc and comment; when happy, merge with `git push origin analysis:main`
