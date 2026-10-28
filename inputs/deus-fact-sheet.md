@@ -154,7 +154,7 @@ The founder's words, lightly cleaned up. They are the founder's account; buyers 
 - SPH's deal was small, about Rp12 juta.
 - Audrey runs the F&B outreach. BCG doesn't want to use DEUS again; Boga already has its own systems.
 - Many companies DEUS reaches are curious about Discover but already have their own assessments.
-- The other Next Chapter partners have closed deals, the founder thinks, but they took a while and were small: about 100 people or so (founder, in chat, 2026-10-28). Whether that is per deal or in total, how many deals, at what price, and whether any client bought again: ?
+- The other Next Chapter partners have closed deals, the founder thinks, but they took a while and were small: about 100 people or so (founder, in chat, 2026-10-28). Whether that is per deal or in total, how many deals, at what price, and whether any client bought again: ? The founder's guess is that they were one-off purchases for the partners too (founder, in chat, 2026-10-28; a guess, not checked with Agate).
 - The founder would like to sell Enhance more but can't: cold outreach gets no response, and at Rp30 juta a month the dad's connections almost all say they have no budget or will hold until later.
 
 ## Most important gaps (in order)
