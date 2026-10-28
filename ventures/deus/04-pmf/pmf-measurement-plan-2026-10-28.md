@@ -1,40 +1,45 @@
 # PMF measurement plan: DEUS, 30 days (2026-10-29 to 2026-11-27)
 
-Companion to `pmf-assessment-2026-10-28.md` (the verdict and diagnosis) and `pmf-scorecard-2026-10-28.md`. This plan fills the scorecard's empty cells and tests the diagnosis. It is the first half of Step 2's 60-day experiments (`outputs/02-lean-startup.md` section 5), not a new set: the 60-day pass and fail lines stay as Step 2 wrote them; this plan adds a 30-day checkpoint.
+Companion to `pmf-assessment-2026-10-28.md` (the verdict and diagnosis) and `pmf-scorecard-2026-10-28.md`. **Revised 2026-10-28 with the founder's answers** (`inputs/deus-fact-sheet.md`, Corrections and Founder answers). This plan fills the scorecard's empty cells and tests the diagnosis. It is the first half of the revised Step 2's 60-day experiments (`outputs/02-lean-startup.md` section 5): Experiment 1 (assessment units through Agate and introductions, no cold email), Experiment 2 (the DKB scope and a 30-day time log), Experiment 3 (a side-by-side pilot for prospects who already have an assessment). Step 2's 60-day pass and fail lines stay as written; this plan adds a 30-day checkpoint. The Step 8 verdict rerun (plan task 5.2) sets the company-level dates.
 
-**Decision date: 2026-11-27.** Rerun the pmf skill in Mode B with the log below. The lines set here are proposals by this analysis (not facts); the founder can change them before day 1, not after.
+**Decision date: 2026-11-27.** Rerun the pmf skill in Mode B with the log below. The lines are proposals by this analysis (not facts); the founder can change them before day 1, not after.
 
 ## 1. What the 30 days must answer
 
 | Question | Why it matters | Answered by |
 |---|---|---|
-| Do Telkom-like accounts (an annual MT, graduate or campus intake) take a meeting when approached with a message about that intake? | Tests rung ① (wrong segment) of the diagnosis | M1, M2 |
-| Why did the ~10 F&B prospects not buy? | The only lost deals DEUS can still ask (Fact sheet) | M3 |
-| Is finance's low reply rate about finance, or about firms without a hiring event? | Separates "wrong industry" from "wrong buyer inside the industry" | M4 |
-| Does DKB value Enhance, or the relationship? | Enhance is 100% of revenue (Fact sheet); no one has asked its users | M5 |
-| Why did Telkom not run a third year, will it run one, and will it introduce two peers? | The only repeat buyer has lapsed or paused; Telkom group now also takes part in the joint state-company recruitment ([investortrust, 13 March 2025](https://investortrust.id/business/59560/rekrutmen-bersama-bumn-2025-dibuka-telkomgroup-ajak-talenta-terbaik-bergabung)). If that replaced outside MT assessment, the state-company half of the segment may be closed | M6 (the gate) |
-| Can DEUS win against Agate's direct offer and the incumbents? | Agate sells the same suite directly with free pilots (Agate deck); DEUS's terms with Agate are NO DATA (Fact sheet gap 3) | M7 |
-| How long can DEUS run this test? | Cash in bank and runway are NO DATA (Fact sheet gap 1) | Checkpoint item |
+| Will Agate pass DEUS open-search leads, on written terms? | The only route that has produced a large Discover buyer was Agate's referral in Phase 7. Agate now has four other partners and its own business-development team scopes Next Chapter pilots (Correction 1; Step 4, W8) | M4 (the gate) |
+| Do assessment units and MT-programme owners take a meeting when introduced, and do they have a dated intake? | Tests rung ① for the segment Step 4 backs | M1, M2 |
+| When they say no, is it "already have one", the game, validation, or another vendor? | "Already have one" fits ① and ③; only buyers' words separate them. The founder's account is the only source so far (Fact sheet, Funnel) | M3, M7, the kill row |
+| Is DKB held by the product or the relationship? | Enhance for DKB is 100% of revenue (Fact sheet) | M5 |
+| Does the DKB contract earn more than it costs? | Scope grows free; hours are not logged (Fact sheet; Step 2 section 6) | M6 |
+| How long can DEUS run this? | Cash in bank and a written funding amount are NO DATA (Fact sheet, gap 1) | Checkpoint item |
+
+Answered since the first pass, so dropped: why Telkom did not run a third year (Correction 3), BCG's churn reason (Correction 4; no call: it won't come back), the finance list split (cold email to this profile is dropped; finance firms with programmes go on the M1 list).
 
 ## 2. The seven measures (one log, kept daily)
 
-One shared sheet, one row per account contacted. Columns: date, account, segment (MT-intake / finance-with-programme / finance-without / F&B / other), the contact's role, channel, intake month if known, intake within the next 6 months (yes / no / unknown), recruits through the joint state-company process (yes / no), stage (contacted / replied / meeting / proposal / paid pilot / lost), loss reason (codes below), "who else are you looking at", next step. Audrey owns it; the founder reads it every Friday (ASSUMPTION: roles from Step 4's proposed split).
+One shared sheet, one row per account contacted. Columns: date, account, segment (assessment unit or MT-intake / F&B / finance / other), the contact's role, route (Agate / introduction / existing prospect), intake month if known, open search now (yes / no / unknown), stage (contacted / replied / meeting / proposal / paid pilot / lost), loss reason (codes below), "who else are you looking at" (including other Agate partners), next step. Audrey owns it; the founder reads it every Friday (ASSUMPTION: roles from Step 4's proposed split).
 
 | # | Measure | How to capture it | 30-day line (proposed) |
 |---|---|---|---|
-| M1 | Leading indicators: qualified accounts with an intake in the next 6 months; open tenders or vendor searches found; meetings with the **owner of an MT, graduate or campus programme** ÷ qualified accounts contacted | The log, segment = MT-intake | On track: ≥10 named accounts with an intake in the next 6 months, ≥15 qualified accounts contacted, ≥2 programme-owner meetings held or booked. Off track: 0 meetings from ≥15 contacted |
-| M2 | Paid pilots from qualified accounts (count, Rp) | The log; minimum order Rp10 juta or the Pilot package (Pitch deck, A8–A9) | Not expected by day 30. Step 2's day-60 line stands (≥1 paid pilot), read against intake dates: a buyer whose intake is months away can say "later" without saying "no" (ASSUMPTION; Indonesian procurement cycles not checked) |
-| M3 | Coded loss reasons | Calls to the ~10 F&B prospects (Step 2, Experiment 3 script) and every new "no". Codes: no need · not now (timing) · price · wants proof of validity · already has a vendor (name it) · Agate · no budget owner · other | Usable reason from ≥7 of 10 F&B prospects |
-| M4 | Reply rate, finance list split in two | Re-tag the ~100 finance contacts: firms with a public MT, officer-development or graduate programme vs firms without (ASSUMPTION: banks commonly run such programmes; check each firm's careers page). Send the same MT-intake message to the first group only | ≥10 finance firms with a programme contacted; compare their reply rate with the old list's "not many" |
-| M5 | DKB: Sean Ellis "very disappointed" % among Enhance users, and whether the latest appraisal cycle ran fully in the system | The survey in section 3, sent by DKB's HR with its permission; one 30-minute interview with DKB's HR lead (Step 3 section 8 questions) | n ≥ 30 eligible users answered; if fewer than 30 use Enhance, report the answers as anecdotes, not a %. Benchmark ≥40% (skill rule of thumb) |
-| M6 | Telkom: why no third year, a third year yes / no / when, does its MT intake still buy outside assessment, and 2 named introductions | One call by the founder (Ibu Lina, Telkom Group Selection, is the named contact on the GBA deck's Success Story slide) in week 1 | **The gate:** an answer before the full list is contacted. If Telkom's MT screening moved fully into the joint process, take state companies that recruit only through it off the list |
-| M7 | Competition per prospect: who else is on the shortlist, and the price gap to Agate | The log's "who else" column; DEUS's written terms with Agate (founder, week 1) | A named alternative recorded for every meeting; Agate terms in hand |
+| M1 | Leading indicators: named organisations with a central assessment unit or an MT, graduate or campus programme; meetings with the **owner of that programme** via Agate or introductions | The log (Step 2, Experiment 1). No cold email | On track: list of 20–30 named, ≥10 asked for an introduction, ≥2 programme-owner meetings held or booked, each with its next intake date recorded. Off track: 0 meetings from ≥10 introductions asked |
+| M2 | Paid pilots (count, Rp), from Experiment 1 or 3 | The log; minimum order Rp10 juta, or the Pilot package (Rp999,000, 5 candidates) as a side-by-side (Pitch deck, A8–A9) | Not expected from Experiment 1 by day 30 (Step 2's day-60 line stands). Experiment 3: ≥1 paid side-by-side pilot. A Rp999,000 pilot shows willingness to try; only an order at the Rp10 juta minimum counts as evidence of switching |
+| M3 | Loss reasons in the buyer's words, coded | Calls to the ~10 F&B prospects with Step 2's Experiment 3 script, made by the founder or Thania, not by the seller who lost the deal, and every new "no". Codes: already has an assessment (name it) · game length or readability · wants validation evidence · not now (timing) · no budget owner · price · another Agate partner · other | A usable reason from ≥7 of 10. Track how often "already has one" and "length" come up versus the founder's account |
+| M4 | Agate channel: written partner terms (margin, prices, exclusivity, lead sharing among the five); qualified leads passed to DEUS; why Agate chose DEUS for Telkom | One founder meeting with Agate in week 1, written follow-up. Ask also whether Agate's own business-development team sells or pilots Next Chapter directly (W8) | **The gate, by 2026-11-11:** written terms that say who gets open-search leads (DEUS, another partner, or Agate's own team). A vague or verbal reply is a fail. Leads passed since Telkom and in the 30 days counted |
+| M5 | DKB: how deeply Enhance is used, and whether the account would replace it | First, DEUS's own server logs: monthly active users and whether the latest appraisal cycle ran fully in the system. Second, one 30-minute interview with DKB's decision-maker (HR head or owner): "what would you do if Enhance stopped tomorrow?". Third, the Sean Ellis survey in the plan (section 3), sent by DKB's HR, read with caution | Logs pulled for the last cycle; the interview held. Survey: n ≥ 30, benchmark ≥40% (skill rule of thumb), biased upwards by HR distribution |
+| M6 | DKB cost: hours by Ko Will and Thania on DKB work, plus the Rp4 juta server, against Rp35 juta; DKB's answer to a one-page monthly scope | Time log (Step 2, Experiment 2) | 30 days logged; DKB's answer recorded. Pass and fail lines as Step 2 sets them |
+| M7 | Candidate experience in any pilot: completion time per module, drop-offs, complaints about length or text | Pilot data and a two-question candidate note | Recorded for every pilot candidate; a usable comparison only with ≥1 pilot |
 
-**Stop doing during the 30 days (no new contacts):** Apollo for Enhance (answered: 0 meetings; Recap, Phase 11), new waves of the dad's network to companies that fail the ICP filter (Step 3 section 5), and new F&B outreach (calls to existing F&B prospects only, for reasons). No new builds (Step 4).
+**Stop doing during the 30 days:** Apollo for Enhance; Enhance offers at Rp30 juta to the dad's contacts; cold email to finance and Telkom-like lists (Founder answers: no response); new F&B outreach (calls to existing F&B prospects only); no new builds (Step 4). Calls to BCG and Boga are dropped: neither wants to come back (Correction 4; Fact sheet).
 
-## 3. Survey for DKB's Enhance users (in Bahasa Indonesia; the users' language)
+**Load and season.** Audrey carries M1 and the log; the founder carries M4, the DKB scope and half of M3; Ko Will and Thania keep the M6 log. That is the whole team, so nothing else new starts in these 30 days. The window runs into year-end, when open MT searches may be rare (ASSUMPTION): a quiet M1 by 2026-11-27 is read against intake dates, but the kill row below does not wait for them.
 
-Who: DKB staff who used Enhance in the latest KPI or appraisal cycle (the skill's "used it twice in the last two weeks" rule does not fit a tool used per cycle; ASSUMPTION that a cycle is the natural unit). Sent by a person at DKB HR with a two-line intro; two minutes; no incentive. Number of DKB users: NO DATA.
+## 3. DKB: logs first, then the decision-maker, then the survey
+
+1. **Server logs** (Ko Will, week 1): active users last month; for the latest appraisal cycle, how many appraisals were opened and completed in Enhance. If DEUS's server does not keep these, record that as a finding (ASSUMPTION that logs exist).
+2. **Decision-maker interview** (founder, 30 minutes, with DKB's HR head or owner): "What would you do if Enhance stopped tomorrow?" · "Which parts would you miss most?" · "What would you use instead?" · "What does the Rp35 juta cover, in your view?". Record answers in their words.
+3. **Sean Ellis survey** (secondary; in Bahasa Indonesia, the users' language). Who: DKB staff who used Enhance in the latest KPI or appraisal cycle (a cycle is the natural unit for an appraisal tool; ASSUMPTION). Sent by DKB HR with a two-line intro; two minutes; no incentive. About 300–400 employees have access (Fact sheet). HR distribution on a mandatory tool biases answers upwards: read it as a floor-check, not proof of pull.
 
 1. Bagaimana perasaan Anda jika Anda tidak bisa lagi menggunakan DEUS Enhance?
    - Sangat kecewa
@@ -47,28 +52,30 @@ Who: DKB staff who used Enhance in the latest KPI or appraisal cycle (the skill'
 5. Jika DEUS Enhance tidak tersedia lagi, apa yang kemungkinan akan Anda gunakan sebagai gantinya?
 6. Peran Anda: (atasan yang menilai / karyawan yang dinilai / HR / manajemen)
 
-Read it by role (question 6): the HR team and managers who run appraisals are the ones whose "very disappointed" share matters for renewal.
+Read it by role (question 6): HR and the managers who run appraisals are the ones whose answer matters for renewal.
 
-**Discover has no user base to survey** (0 active buyers; Fact sheet). For Telkom and SPH, ask question 1 (with "DEUS Discover") at the end of the founder's call and record the answer as an interview note, not a score.
+**Discover has no user base to survey** (0 active buyers; Fact sheet).
 
 ## 4. Week by week
 
 | Week | Dates | Do |
 |---|---|---|
-| 1 | Oct 29 – Nov 4 | Set up the log. Write the one-line filter: "an annual MT, graduate or campus intake of several hundred candidates or more, run by a central HR team". Build a named list of 20–30 accounts (Step 2, Experiment 1). Founder calls Telkom (M6, the gate) and gets DEUS's Agate terms in writing (M7). Founder asks DKB for the survey and the HR interview (M5). Start the F&B reason calls (M3) |
-| 2 | Nov 5 – 11 | Send the MT-intake message to the first 15 qualified accounts, with the Telkom slide (Pitch deck; GBA deck). Re-tag the finance list (M4). F&B calls finished. DKB survey out |
-| 3 | Nov 12 – 18 | Meetings. In each, ask: when is your next intake, who decides, what do you use now, who else are you looking at (this captures Agate and incumbents). Offer a paid pilot at the minimum order. Try one call with BCG for its churn reason |
-| 4 | Nov 19 – 27 | Contact the rest of the list. Code every reason. Count M1–M7. Write down cash in bank (Fact sheet gap 1) next to the result. On 2026-11-27, rerun the pmf skill in Mode B with the log and update the scorecard |
+| 1 | Oct 29 – Nov 4 | Set up the log. Founder meets Agate and asks in writing for the lead rule, margin, leads since Telkom and whether Agate sells directly (M4). Write the one-line filter: "a central assessment unit, or an annual MT, graduate or campus intake of several hundred candidates or more". Audrey builds the named list of 20–30 (M1). Ko Will pulls the DKB logs (M5); the DKB time log starts (M6). Founder asks DKB for the decision-maker call |
+| 2 | Nov 5 – 11 | Introduction requests to ≥10 listed organisations, through the dad's network and Agate (M1). Founder or Thania starts the F&B reason calls with the side-by-side offer (M3, M2). **Agate gate: 2026-11-11** |
+| 3 | Nov 12 – 18 | Meetings. In each, ask: when is your next intake, who decides, what do you use now, who else are you looking at (other Agate partners, incumbents), what proof do you need. DKB decision-maker interview; survey out if DKB agrees. Draft the one-page DKB scope from two weeks of the log |
+| 4 | Nov 19 – 27 | Code every reason. Count M1–M7. Write cash in bank (Fact sheet, gap 1) next to the result. On 2026-11-27, rerun the pmf skill in Mode B with the log and update the scorecard |
 
 ## 5. What each result would mean on 2026-11-27
 
 | Result | Reading | Next |
 |---|---|---|
-| ≥2 programme-owner meetings, reasons point to timing or proof | Rung ① confirmed: the segment answers, the offer needs work | Keep going to Step 2's day-60 line (≥1 paid pilot); build the evidence pack (Step 4) |
-| 0 meetings from ≥15 qualified accounts | Rung ① not confirmed; the message or the buyer is still wrong, or the job is not painful enough (rung ④) | Change the message once (lead with the Telkom result, one-day results for 1,000+ candidates); if day 60 still has 0, Discover moves toward Step 2's pivot options |
-| Meetings happen but buyers name Agate or an incumbent and price | The fit is real but DEUS is not the vendor that wins it (outputs/04 section 5) | The question becomes "why DEUS", not "is there a need"; take to Step 8 |
-| Telkom says no third year | The one repeat buyer did not repeat | Its reason decides the next step: joint recruitment (narrow to private groups and state companies running their own MT), a competitor or Agate (the "why DEUS" question first), or delivery (Discover's ③ rung) |
-| DKB "very disappointed" ≥40% (n ≥ 30) | DKB's users value the product, not only the relationship | Supports the priced service contract (Step 4) and Step 2 Experiment 2 after day 30 |
-| DKB "very disappointed" <25% | DKB's revenue rests on the relationship | Treat DKB churn as the top risk in Step 8 |
-
-Enhance's Step 2 Experiment 2 (10 DKB-like companies at a fixed price) starts after this checkpoint, so the team runs one outbound test at a time (DECISION in the assessment, section 7).
+| Agate puts terms in writing and passes ≥1 qualified lead | The channel that found Telkom works for DEUS on known terms | Work those leads first; keep Experiment 1 to day 60 |
+| Agate gives no clear written lead rule, or keeps open-search leads for its own team | The route that found Telkom is not open to DEUS | Introductions carry Experiment 1 alone; the Discover bet should be smaller and shorter (Step 4, section 5) |
+| ≥2 programme-owner meetings with dated intakes; reasons point to timing | Rung ① supported: the segment answers | Keep going to Step 2's day-60 line (≥1 paid pilot); build the evidence pack (Step 4) |
+| F&B reasons in buyers' words: mostly "already have one", no paid side-by-side | Incumbency is a hard wall in F&B | Stop F&B; give the time to Experiment 1 (Step 2, Experiment 3 fail line) |
+| Reasons mostly game length or readability | Rung ③ ahead of ①: the product costs deals | Shorter module sets and readable text before more selling |
+| **Kill row:** ≥2 programme owners met, and most say "already have one" or ask for validation DEUS can't show | The narrow bet fails: the gap is ③ or "why DEUS", not ① | Take to the Step 8 verdict rerun (plan 5.2) as a fail of the Discover bet, not as a reason to widen the list |
+| Buyers name another partner or an incumbent and price | The fit may be real but DEUS is not the vendor that wins it | "Why DEUS" becomes the question; take to Step 8 |
+| Logs show the last cycle ran fully in Enhance and the decision-maker would have to replace it | DKB's use is embedded, not only the relationship | Supports the service contract and a firmer scope talk |
+| Shallow use in the logs, or the decision-maker shrugs | DKB's revenue rests on the relationship | Treat DKB churn as the top risk in Step 8 |
+| DKB time log at or above Rp35 juta | The contract is open-ended | Reopen scope at renewal (Step 2, section 6) |
