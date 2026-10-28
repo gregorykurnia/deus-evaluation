@@ -47,6 +47,8 @@ DEUS has **no customer's own words** about why anyone bought, stayed, left or sa
 | H4 fails (BCG or Boga left for a reason other than quality) | The quality fix (Ko Will's rebuild, Recap, Phase 10) is not enough on its own; the real reason goes into the ICP's anti-profile (Step 3, section 6) |
 | H5 fails (F&B had a real need and stopped on price or proof) | F&B comes back as a later test with a different offer; it does not replace the beachhead |
 
+Step 8 settled two of these rows: Enhance's Experiment 2 runs now, side by side with Discover (test B), not after day 30, and DKB's survey result changes the fallback's risk rather than stopping test B (Step 8, sections 8 and 10).
+
 ---
 
 ## 2. Who to talk to

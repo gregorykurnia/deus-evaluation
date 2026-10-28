@@ -157,11 +157,11 @@ The `venture:devils-advocate` agent, with a fresh context, attacked the draft sc
 | Buyer | Groups that run their own yearly MT, graduate or campus intake of several hundred candidates (Step 3; Step 6b). State groups or private groups lead, as the Telkom call decides | Multi-brand or multi-outlet groups with a KPI and appraisal setup as complex as DKB's (ASSUMPTION profile; Step 2, Experiment 2). No direct competitor of DKB |
 | Offer | "We run your MT screening": a fixed scope and one price per intake, priced from the cost of running one 1,000-candidate intake (Step 7, E6), not from Telkom's recalled fee | The rebuilt Enhance as it is: a written core scope, extras priced, one monthly price at or above a floor written before the first meeting (proposal: not below the Rp35 juta a month DKB pays for a comparable scope; Fact sheet) |
 | Source of meetings | A list of 20–30 named groups, direct outreach with the Telkom case (Step 5, section 4) | Up to 10 introductions by the dad, to groups that fit the profile |
-| Gates, with deadlines | **Telkom call by 2026-11-11.** No answer by then = treat as "no third year" and target private groups and state groups that run their own intake. **DEUS's Agate terms in writing by 2026-11-11** (DEUS's own contract, or Agate in writing). Without them A keeps running, but cannot be chosen until they are in hand | **DKB's contract read by 2026-11-11**: does DEUS own the Enhance code and may it sell it to others? If not, B stops. **Price floor written** before the first meeting. DKB survey and HR interview before any B meeting where possible |
+| Gates, with deadlines | **Telkom call in week 1 (Step 5, M6; Step 6c), deadline 2026-11-11.** No answer by then = treat as "no third year" and target private groups and state groups that run their own intake. **DEUS's Agate terms in writing by 2026-11-11** (DEUS's own contract, or Agate in writing). Without them A keeps running, but cannot be chosen until they are in hand | **DKB's contract read by 2026-11-11**: does DEUS own the Enhance code and may it sell it to others? If it says no, B stops; if it is not read by then, B keeps running but cannot be chosen until it is. **Price floor written** before the first meeting. DKB survey and HR interview before any B meeting where possible |
 | Weekly quota (in the log) | From week 2: at least 5 qualified groups contacted a week | From week 2: at least 2 introductions a week until 10 |
-| Day 30, 2026-11-27 (leading lines, read only, unless the clock moved) | On track: at least 15 qualified groups contacted and at least 2 meetings with an MT-programme owner held or booked. Off track: 0 meetings from 15 or more | On track: at least 2 groups name a budget owner and receive a written proposal at or above the floor. Off track: 0 |
+| Day 30, 2026-11-27 (leading lines, read only, unless the clock moved) | On track: at least 15 qualified groups contacted and at least 2 meetings with an MT-programme owner held or booked. Anything short of that is off track | On track: at least 2 groups name a budget owner and receive a written proposal at or above the floor. Anything short of that is off track |
 | **Pass by 2026-12-27** | At least 5 programme-owner meetings **and** at least 1 of: a paid pilot (minimum order Rp10 juta; Pitch deck, A9) or a signed order for a dated intake with a named budget owner and price | At least 2 groups pay for a pilot or sign an intent backed by a deposit, at or above the floor |
-| **Fail** | Anything short of a pass | Anything short of a pass |
+| **Fail** | Anything short of a pass. A pass without DEUS's Agate terms in writing by 2026-12-27 counts as a fail | Anything short of a pass. A pass without DKB's contract read and allowing the sale by 2026-12-27 counts as a fail |
 
 ### The decision on 2026-12-28
 
@@ -191,7 +191,7 @@ Proposed from Step 4's split and Step 6a's seats (ASSUMPTION: today's split of e
 | Audrey | Test A's list of 20–30 groups, outreach and the shared log; the F&B reason calls (Step 5, M3) |
 | Bu Sovie | Test A's intake configuration and the cost of one 1,000-candidate intake; the validity note (Step 6b) |
 | Thania | DKB user survey and HR interview (Step 5, M5); test B's one-page offer; DKB as an account |
-| Ko Will | The DKB service; a demo of the existing Enhance for test B (no new build); documentation so someone else could run Enhance (Step 7, E2) |
+| Ko Will | The DKB service; a demo of the existing Enhance for test B (no new build); documentation so someone else could run Enhance, and one outside engineer named as a backup, both by 2026-11-27 (Step 7, E2) |
 
 ---
 
@@ -201,8 +201,8 @@ Proposed from Step 4's split and Step 6a's seats (ASSUMPTION: today's split of e
 |---|---|---|---|---|
 | 1 | **Know the money and the rights.** Bank balance; every recurring cost; the office lease and notice; the written family funding limit; DEUS's Agate terms (supply, price changes, support, exclusivity, and whether Agate would take DEUS as a delivery partner); DKB's contract (code ownership, exclusivity) | Money by 2026-11-04; terms and contract by 2026-11-11 | Founder, the dad | Fact sheet gaps 1–3; Step 7, E3, E4; a later `/venture:model` |
 | 2 | **Run test A's first month.** The Telkom call (why no third year, does its MT screening still buy outside, two introductions, permission to use the quote); the F&B reason calls; the list of 20–30 groups; 15+ contacted; intake costed before any quote | Telkom by 2026-11-11; 15+ contacted by 2026-11-27 | Founder, Audrey, Bu Sovie | Step 5, M1–M4, M6, M7; Step 6c, groups a and d |
-| 3 | **Run test B's first month.** DKB user survey and HR interview; price floor and one-page offer; the dad's introductions, two a week; proposals to groups with a named budget owner; BCG and Boga calls for their reasons | Survey out by 2026-11-11; 10 introductions by 2026-11-27 | Thania, Ko Will, founder, the dad | Step 5, M5; Step 2, Experiment 2; Step 6c, groups b and c |
-| 4 | **Make the numbers decide.** Announce the stop list to the team; one shared log (one row per account); a Friday review of both tests against their lines with the founder and the dad; a one-page founder–dad note on who decides what, including that the lines decide (Step 6a, items 1–4); fix "40+ brands" before outreach | Week 1, then every Friday | Founder, the dad, Audrey | Step 6a; Step 7, ACT list |
+| 3 | **Run test B's first month.** DKB user survey and HR interview; price floor and one-page offer; the dad's introductions, two a week; proposals to groups with a named budget owner; BCG and Boga calls for their reasons | Survey out by 2026-11-11; at least 6 of the 10 introductions by 2026-11-27 (2 a week from week 2) | Thania, Ko Will, founder, the dad | Step 5, M5; Step 2, Experiment 2; Step 6c, groups b and c |
+| 4 | **Make the numbers decide.** Announce the stop list to the team; one shared log (one row per account); a Friday review of both tests against their lines with the founder and the dad; a one-page founder–dad note on who decides what, including that the lines decide (Step 6a, items 1–4); fix "40+ brands" and retire one of the two Discover price lists before outreach; Ko Will's run book and a named backup engineer by 2026-11-27 | Week 1, then every Friday | Founder, the dad, Audrey, Ko Will | Step 6a; Step 7, ACT list, E2, E9 |
 | 5 | **Checkpoint on 2026-11-27.** Score the day-30 lines; rerun `/venture:pmf` in Mode B with the log (Step 5's checkpoint); apply the clock rule. Then the decision review on 2026-12-28 (`/venture:review`), and Steps 7–10 rerun once the interviews are in the fact sheet (owner line) | 2026-11-27; 2026-12-28 | Founder | `/venture:pmf`; `/venture:review`; IMPLEMENTATION_PLAN.md |
 
 ---
@@ -213,12 +213,13 @@ Proposed from Step 4's split and Step 6a's seats (ASSUMPTION: today's split of e
 |---|---|
 | The written funding limit doesn't cover 60 days, or isn't written | Decision on 2026-11-27 on the day-30 lines (section 8) |
 | Telkom says its MT screening now runs only through the joint recruitment (H2 holds) | Test A targets private groups with their own intake; state groups leave the list (Step 6b switch rule) |
-| Telkom names a DEUS cause for no third year (quality, delivery) | Test A must show it can deliver before it sells: the intake costing and a dry run come first (Step 6c, section 1.3) |
+| Telkom names a DEUS cause for no third year (quality, delivery; H2 fails) | Test A must show it can deliver before it sells: the intake costing and a dry run come first (Step 6c, section 1.3) |
 | Telkom chose DEUS for the game itself, not the service (H1 fails) | Agate's direct offer is the main threat to A; A cannot win without written Agate terms that give DEUS something Agate's direct offer doesn't |
-| DKB's users answer "very disappointed" at 40% or more, n of 30 or more | Supports test B and the DKB service as the fallback; DKB churn risk drops (Step 5, section 5) |
-| DKB's users answer "very disappointed" below 25% | DKB churn becomes the top risk; the shrink branch is less safe than it looks, and the wind-down plan gets written now |
+| DKB's users answer "very disappointed" at 40% or more, n of 30 or more, and the HR lead names a cost Enhance removed (H3 fails) | Supports test B and the DKB service as the fallback; DKB churn risk drops (Step 5, section 5) |
+| DKB's users answer "very disappointed" below 25% (H3 holds) | DKB churn becomes the top risk; the shrink branch is less safe than it looks, and the wind-down plan gets written now |
 | DKB's contract says DEUS may not sell Enhance to others | Test B stops; test A is the only way back to growth |
 | BCG or Boga left for a reason other than quality (H4 fails) | The rebuild alone isn't enough; the real reason goes into test B's offer or the anti-profile |
+| F&B prospects describe a real hiring need and budget and stopped on price, proof or timing (H5 fails) | F&B comes back as a later test with a different offer after 2026-12-28; it does not join the 60 days (Step 6c, section 1.3) |
 | The burn turns out materially higher than Rp52–62 juta | The gap and the funding limit are recomputed before day 30 |
 
 ---
