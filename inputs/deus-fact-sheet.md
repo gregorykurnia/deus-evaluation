@@ -97,6 +97,7 @@ Sources: Recap, Phases 2, 3, 5, 7, 9, 11; founder, 2026-10-28; founder answers (
 | "40+ brands" across retail, telecom, education, FMCG, F&B, electronics and more; logos include Telkom Indonesia, Boga Group, Delamibrands, Sekolah Kristen Calvin, JVC Kenwood, Sekolah Pelita Harapan, Pepper Lunch, Wrangler, Paradise Dynasty, Telin, Colorbox | deushcs.com; deck.deushcs.com ("40+ clients", no names) | Five clients have bought from DEUS (Reference: clients); the founder adds a sixth, SPH. Founder answers: the other logos are companies inside the paying groups (e.g. Pepper Lunch under Boga), so "40+ brands" counts brands within about six paying groups, not 40+ buyers |
 | Free trial, pilot, no long-term contract | deushcs.com; DEUS_Pitch.pdf; DEUS_GBA_Presentation_8.pdf | |
 | Discover: 32 personality types, 24 competencies, Big Five based | deck.deushcs.com | No psychometric validation was done at the start (Recap, Phase 1); still none for the personality game (founder answers) |
+| Role fit: the report maps personality results onto competencies the buyer can customise, with DEUS's own weightings, and shows whether a candidate suits a role | Founder, in chat, 2026-10-28 | Who set the weightings and whether role-fit scores predict job performance: ? (no psychologist on the team, Correction 6) |
 
 ## Founder notes
 - Why did Telkom choose DEUS over other gamification vendors? Telkom's Assessment Center asked Agate, and Agate brought DEUS in (founder answers). Why DEUS among Agate's partners: ?
