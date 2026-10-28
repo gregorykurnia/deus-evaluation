@@ -91,7 +91,7 @@ Nine providers were checked: tech platforms (Talentlytica, Ikutpsikotes, Dreamta
 
 In order:
 
-1. **Stop putting DEUS's own personality game in trials and proposals now.** Lead with Next Chapter's personality and cognitive modules, on a device known to work well.
+1. **Stop putting DEUS's own personality game in trials and proposals now.** Lead with Next Chapter's personality and cognitive modules, on a device known to work well. **Caveat, later on 2026-10-28:** the founder finds Agate Level Up's personality module time-consuming too; time it before it goes into a trial (`plans/why-trials-lose.md`, recommendation 3).
 2. **Check three things with Agate before the next trial:** whether Next Chapter is properly mobile-friendly (the deck doesn't say); whether its personality module is validated or only "calibrated" with Anvesana's psychologists; what a 30–45-minute screening set should contain.
 3. **Bring in a licensed psychologist who owns the service**, part-time or through a partner bureau that signs the reports. It closes the legal gap, meets what tenders score, and lets DEUS price in the bureau band. Ikutpsikotes shows the model: an inexpensive test plus a paid psychologist summary.
 4. **Make DEUS's difference the service, not the game:** the Telkom record (1,000+ candidates, 30+ provinces, results in one day), running whole hiring rounds nationwide, the partner psychologist (Step 6b). The game is the same from all five partners, so Agate's lead and deal-registration rules matter more.
