@@ -14,7 +14,7 @@ and the reports. Step 9's audience is the founder's dad and the founder (interna
 ## Before the run
 - [x] *owner*: repo stays public (owner's choice, 2026-10-28); was: make the GitHub repo private (`gh repo edit gregorykurnia/deus-evaluation --visibility private --accept-visibility-change-consequences`): the run pushes company financials and team notes
 - [x] *owner*: upload the input files into `inputs/` and commit them on `analysis`: the recap PDF at least, plus any deck that isn't on the public sites listed in `CLAUDE.md`
-- [ ] *owner*: Step 0 by hand: a Haiku 5.5 Max session in this folder, "Read PLAYBOOK.md and CLAUDE.md, then run Step 0"; answer its number questions; it saves `inputs/deus-fact-sheet.md`, fills the doc's Step 0 section and commits
+- [x] *owner*: Step 0 by hand: a Haiku 5.5 Max session in this folder, "Read PLAYBOOK.md and CLAUDE.md, then run Step 0"; answer its number questions; it saves `inputs/deus-fact-sheet.md`, fills the doc's Step 0 section and commits
 
 ## Phase 1: Analysis
 - [ ] 1.1 Step 1 Systems Thinking (PLAYBOOK.md "Step 1"): outputs/01-systems-thinking.md and the doc's Step 1 section · Opus 5.5 High: framework analysis of root causes that every later step reads
