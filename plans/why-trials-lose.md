@@ -2,6 +2,8 @@
 
 As of 2026-10-28. For the founder and the founder's dad; internal. **This is not a step report.** It saves, at the founder's request, Claude's chat answers of 2026-10-28 to: "Why would prospects who took the trial not buy, when the game is clearly faster and less boring than traditional assessments? HR aren't the ones taking it, the candidates are, so why should they care? Why can't we sell even one assessment after Telkom, when the report even links personality to role fit? And if companies say they already have an assessment, how do the big Indonesian players sell to them?" Corrections 1 (Agate is DEUS's game developer and DEUS is one of its five Next Chapter partners) and 6 (nobody on the team is a psychologist) are applied. Where this differs from the Step 8 verdict, the verdict is the considered call.
 
+**Update, 2026-10-29:** a full playthrough of the trial game, Heroes of A Fallen Land (DEUS Discover's own personality game, not Agate's), is now in `inputs/HoaFL_Playtest_Review.md` ("Playtest"). It backs up the founder's account with counts: rows added to section 1, a scoring point added to section 4, and recommendation 2 and the data gaps updated. It is one run by an AI reviewer on desktop, so its times are estimates from counts, and its "HR-head scorecard" is a simulation, not buyers' words.
+
 Sources: `inputs/deus-fact-sheet.md` ("Fact sheet"; "Correction N"), `inputs/DEUS_Company_History_Recap.pdf` ("Recap, Phase N"), `inputs/DEUS_Pitch.pdf` ("Pitch deck"), `inputs/Agate_Next_Chapter_GBA_deck.pdf` ("Agate deck"), the step reports ("Step N") and `plans/indo-benchmarks.md` ("Benchmarks"). Web sources [Wn] keep the numbers they have in Benchmarks and are listed at the end. **ASSUMPTION** = not in the files or sources; **NO DATA** = number missing; **derived** = arithmetic on cited numbers; **self-claim** = a company's own statement. Everything about DEUS's buyers is the founder's account: the Step 6c interviews have not run.
 
 ---
@@ -21,6 +23,8 @@ Sources: `inputs/deus-fact-sheet.md` ("Fact sheet"; "Correction N"), `inputs/DEU
 | The game plays like a visual novel: candidates click through a long, reading-heavy medieval story with text along the bottom of the screen, then choose options, and personality is scored from the choices. It takes over an hour; the text is tiny on mobile | Founder, in chat, 2026-10-28 (Fact sheet) |
 | Length has been the complaint from the start: the first version "took almost two hours to complete"; Boga found it long; DEUS paid Agate to shorten it; the pitch deck now lists Personality at 60 minutes | Recap, Phases 1, 2, 4; Pitch deck, slide 7 (Step 2, D3) |
 | The full Discover suite is 60 + 20 + 30 + 90 = 3 h 20 min of play | Pitch deck, slide 7 |
+| The trial game is Heroes of A Fallen Land: 32 ranking questions, about 300 lines of unscored story and 3 timed minigames. Estimated 60–80 minutes for a typical candidate, about 40% of it unscored reading, and about 750–1,050 clicks and drags. The main menu says "We recommend playing this game in a PC browser" | Playtest, sections 3–4 and 6 (one desktop run; times estimated, not clocked) |
+| Bugs seen in that run: a blank story that can't be recovered when the account is open in two tabs; ranking stops working after a reconnect; timers run during the tutorial; a 15–20 second grey load. There are also about 19 typos, 21 story contradictions and 13 art mismatches | Playtest, section 6 and Appendices B–D |
 | DEUS rarely uses Discover on its own candidates | Founder answers (Step 2, D3) |
 | Agate Level Up's personality module, as the founder has seen it: candidates walk around a map, talk to characters and choose options; "cool but very time-consuming". Agate's deck gives Next Chapter's personality module as 32 items in an RPG-style story, about 18–20 minutes. Whether these are the same module: ? | Founder, in chat (Fact sheet); Agate deck |
 | The report maps personality results onto competencies the buyer can customise, with DEUS's own weightings, and shows whether a candidate suits a role | Founder, in chat (Fact sheet, Public claims) |
@@ -65,6 +69,7 @@ Telkom's near-full completion is therefore **not evidence** that candidates like
 - A personality description is information; **"this candidate fits this role" is a hiring decision.** When HR rejects someone on it, they must be able to say what it rests on.
 - Today that is a personality game with no validation, multiplied by weightings DEUS set itself, with no psychologist on the team (Fact sheet, Validation; Correction 6). A careful HR head reads a confident score on an unknown base as risk, not value.
 - In Indonesia, recommendation-style verdicts come from psychologists: tenders name psychologists in the required team [W24, W25], and a bureau's price includes a psychologist's report (Benchmarks, sections 2–3). **The stronger the conclusion, the more it needs a psychologist and validation behind it.**
+- The trial itself gives reasons to doubt the scoring. Characters praise some answers, which teaches the "right" ones. Visual Perception showed 25 after 100% accuracy on two minigames. The top trait ("Innovative") didn't match a cautious, plan-first answer pattern (Playtest, section 7; one run, so a sanity check rather than proof). An HR head who sees this has every reason to distrust a role-fit verdict built on it.
 - Most prospects never reach the report: the hour-long game comes first and loses them there.
 - Building it fits a pattern already named: when sales lagged, DEUS added more (Step 11, reason 10).
 
@@ -111,7 +116,7 @@ Across all four questions the same belief came back: DEUS's game is obviously be
 In order. Items 1 and 5–6 repeat Benchmarks; the others are new.
 
 1. **Keep DEUS's own personality game out of trials and proposals** (Benchmarks, recommendation 1).
-2. **Time the trial as a candidate would, against a real competitor.** Buy Ikutpsikotes' 5-test package (Rp799,000 [W8]) and take one of its tests on a cheap Android phone over mobile data with a stopwatch; do the same with DEUS's game and with Next Chapter's personality and cognitive modules. Write down minutes, text size and where attention drops. Cost: under Rp1 juta.
+2. **Time the trial as a candidate would, against a real competitor.** Buy Ikutpsikotes' 5-test package (Rp799,000 [W8]) and take one of its tests on a cheap Android phone over mobile data with a stopwatch; do the same with DEUS's game and with Next Chapter's personality and cognitive modules. Write down minutes, text size and where attention drops. Cost: under Rp1 juta. *DEUS's game is half done (2026-10-29): the desktop playtest estimates 60–80 minutes. A clocked run on a cheap Android phone is still needed, and so is the competitor's test.*
 3. **Don't lead with Next Chapter's personality module until it has been timed.** The plans make it the lead offer on the strength of "about 18–20 minutes" (Agate deck); the founder's experience of Level Up's module is "very time-consuming". Confirm with Agate which module is which, and use it in trials only if item 2 shows it is clearly shorter than the buyer's current personality test.
 4. **Ask the prospects who went quiet, in one line:** "I assume the timing isn't right, and that's fine. Could you tell me the main reason? One line is enough." Write the exact words down. Longer conversations use `outputs/06c-interview-guide.md`.
 5. **Ask Telkom's Assessment Center for the data that would persuade a buyer:** average time per module, how many candidates asked for help or complained and about what, and whether people DEUS ranked highly stayed and performed (Benchmarks, recommendation 8).
@@ -132,7 +137,7 @@ In order. Items 1 and 5–6 repeat Benchmarks; the others are new.
 ## Data gaps
 
 - Time to finish each module for real candidates, from Telkom or any trial (NO DATA).
-- How long DEUS's personality game takes on a cheap phone today, and how long Next Chapter's personality module takes (NO DATA; Agate's 18–20 minutes is its own figure).
+- How long DEUS's personality game takes on a cheap phone today (the desktop playtest estimates 60–80 minutes from counts; no clocked or phone run), and how long Next Chapter's personality module takes (NO DATA; Agate's 18–20 minutes is its own figure).
 - Whether Agate Level Up's walking module is Next Chapter's personality module (NO DATA).
 - Who set the role-fit weightings, and whether role-fit scores predict job performance (NO DATA).
 - Retention or performance of people hired through DEUS at Telkom (NO DATA).
