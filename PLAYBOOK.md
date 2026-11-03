@@ -103,7 +103,7 @@ The recap records events without interpretation. These are the recurring pattern
 
 ## 5. Model for each step
 
-Set the model and effort at the start of each session (`/model`). The picks follow the analysis rows of the model table in `~/.claude/CLAUDE.md` (benchmarks captured 2026-10-25): Opus does the thinking, because it beats Sonnet on the strategy, finance and factual-accuracy indexes at every price and makes up far fewer facts; Sonnet 5.5 xHigh writes the final documents from checked findings; Haiku 5.5 Max only extracts from the files.
+Set the model and effort at the start of each session (`/model`). The picks follow the analysis rows of the model table in `~/.claude/CLAUDE.md` (benchmarks captured 2026-10-25): Opus does the thinking, because it beats Sonnet on the strategy, finance and factual-accuracy indexes at every price and makes up far fewer facts; Opus 5.5 High also writes the final documents from checked findings (every pick is capped at Opus 5.5 High since 2026-11-03); Haiku 5.5 Max only extracts from the files.
 
 | Step | Model + effort | Why |
 |---|---|---|
@@ -117,11 +117,11 @@ Set the model and effort at the start of each session (`/model`). The picks foll
 | 6a — McKinsey 7S | Opus 5.5 High | Organisation diagnosis |
 | 6b — STP | Opus 5.5 High | Choosing the beachhead segment |
 | 6c — Interview Guide | Opus 5.5 Medium | Well-scoped, built from earlier outputs |
-| 7 — Sense-Check | Opus 5.5 xHigh | The last check before the verdict: it steel-mans every conclusion, and whatever it misses goes straight into Step 8 |
-| 8 — Venture Review | Opus 5.5 xHigh | The verdict everything feeds into: best strategy and analysis ranks |
-| 9 — Executive summary | Sonnet 5.5 xHigh | Writing from the verdict: best presentation and completeness ranks |
-| 10 — Master report | Sonnet 5.5 xHigh | Combining reports, no new claims |
-| Alternative: engagement-manager | Opus 5.5 xHigh | One session that also frames the question and builds the final storyline and verdict |
+| 7 — Sense-Check | Opus 5.5 High | The last check before the verdict: it steel-mans every conclusion, and whatever it misses goes straight into Step 8 |
+| 8 — Venture Review | Opus 5.5 High | The verdict everything feeds into: best strategy and analysis ranks under the Opus 5.5 High cap |
+| 9 — Executive summary | Opus 5.5 High | Writing from the verdict: best presentation and completeness ranks under the cap |
+| 10 — Master report | Opus 5.5 High | Combining reports, no new claims |
+| Alternative: engagement-manager | Opus 5.5 High | One session that also frames the question and builds the final storyline and verdict |
 
 Don't run an analysis step on Sonnet: it scores far lower on factual accuracy, so it is more likely to fill gaps with plausible numbers, which breaks the "never invent numbers" rule.
 
